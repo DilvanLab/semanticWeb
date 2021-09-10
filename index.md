@@ -1,6 +1,8 @@
 # Course Introduction
 
-## August 17
+## - August 17
+
+- August 17
 
 Live Video Lesson: Introduction to the Semantic Web Course
 
