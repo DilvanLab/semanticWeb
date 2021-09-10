@@ -4,19 +4,28 @@
 
 ## Course Introduction
 
-### &#9679; August 17
+### &#9726; August 17
 
 * Live Video Lesson: [Introduction to the Semantic Web Course](https://drive.google.com/file/d/1C-Us1uX9Qf6fjDXlQwDwQxmA6eRZ4z_S/view)
 * Slides: Course Introduction
 
 ---
 
-## Course Introduction
+## Semantic Web Introduction
 
-### &#9726; August 17
+### &#9726; August 20
 
-* Live Video Lesson: [Introduction to the Semantic Web Course](https://drive.google.com/file/d/1C-Us1uX9Qf6fjDXlQwDwQxmA6eRZ4z_S/view)
-* Slides: Course Introduction
+* Live Video Lesson: [Introduction to Semantic Technologies](https://www.youtube.com/watch?v=OzoFEnjllkk&ab_channel=DilvanMoreira)
+
+### &#9726; August 24
+
+* Live Video Lesson: [Data Integration](https://www.youtube.com/watch?v=tWgLEVqkNNw&ab_channel=DilvanMoreira)
+
+### &#9726; Slides:
+
+* [Introduction to Semantic Technologies](https://drive.google.com/file/d/1A0fqBQ_L6pvRLVyS_7LuG5FSD6OBQK3M/view)
+
+* [Data Integration](https://docs.google.com/presentation/d/1psobuy_8coRvZ7JSi3lNQbr9Pg6-cpfD/edit)
 
 ---
 
