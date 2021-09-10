@@ -1,12 +1,10 @@
+# Schedule
+
 # Course Introduction
 
 ## - August 17
 
-lkçkçlkçlkçl
-
-- August 17
-
-Live Video Lesson: Introduction to the Semantic Web Course
+Live Video Lesson: [Introduction to the Semantic Web Course](https://drive.google.com/file/d/1C-Us1uX9Qf6fjDXlQwDwQxmA6eRZ4z_S/view)
 
 
 ---
