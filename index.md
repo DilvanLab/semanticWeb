@@ -2,18 +2,18 @@
 
 ---
 
-# Course Introduction
+## Course Introduction
 
-## &#9679; August 17
+### &#9679; August 17
 
 * Live Video Lesson: [Introduction to the Semantic Web Course](https://drive.google.com/file/d/1C-Us1uX9Qf6fjDXlQwDwQxmA6eRZ4z_S/view)
 * Slides: Course Introduction
 
 ---
 
-# Course Introduction
+## Course Introduction
 
-## &#9679; August 17
+### &#9726; August 17
 
 * Live Video Lesson: [Introduction to the Semantic Web Course](https://drive.google.com/file/d/1C-Us1uX9Qf6fjDXlQwDwQxmA6eRZ4z_S/view)
 * Slides: Course Introduction
