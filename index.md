@@ -7,9 +7,13 @@ lkçkçlkçlkçl
 - August 17
 
 Live Video Lesson: Introduction to the Semantic Web Course
+
+
 ---
 
 Slides: Course Introduction
+
+---
 
 ## Test 1
 
