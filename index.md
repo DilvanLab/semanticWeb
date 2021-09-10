@@ -4,7 +4,7 @@
 
 ### Markdown
 
-Markdown is ahjghjghj lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown iees ahjghjghj lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
