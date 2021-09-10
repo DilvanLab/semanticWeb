@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 
 # the little icon that appears in the browser window's tab
 favicon: assets/favicon.ico
