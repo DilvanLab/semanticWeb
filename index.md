@@ -1,5 +1,7 @@
 # Schedule
 
+---
+
 ## Course Introduction
 
 ### * August 17
