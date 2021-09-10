@@ -26,7 +26,7 @@
 * Slides
   * [Introduction to Semantic Technologies](https://drive.google.com/file/d/1A0fqBQ_L6pvRLVyS_7LuG5FSD6OBQK3M/view)
   * [Data Integration](https://docs.google.com/presentation/d/1psobuy_8coRvZ7JSi3lNQbr9Pg6-cpfD/edit)
-* Exercise 1: (https://docs.google.com/document/d/1RUaFNgMYR4r7w1ESDca7y0VConZx-ZFhElH6sByN0nI/edit)
+* [Exercise 1](https://docs.google.com/document/d/1RUaFNgMYR4r7w1ESDca7y0VConZx-ZFhElH6sByN0nI/edit)
 
 ---
 
