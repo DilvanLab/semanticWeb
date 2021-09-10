@@ -21,7 +21,7 @@
 
 * Live Video Lesson: [Data Integration](https://www.youtube.com/watch?v=tWgLEVqkNNw&ab_channel=DilvanMoreira)
 
-### &#10148; Slides:
+### &#10144; Slides:
 
 * [Introduction to Semantic Technologies](https://drive.google.com/file/d/1A0fqBQ_L6pvRLVyS_7LuG5FSD6OBQK3M/view)
 * [Data Integration](https://docs.google.com/presentation/d/1psobuy_8coRvZ7JSi3lNQbr9Pg6-cpfD/edit)
