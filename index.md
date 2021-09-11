@@ -21,7 +21,7 @@
 
 * Live Video Lesson: [Data Integration](https://www.youtube.com/watch?v=tWgLEVqkNNw&ab_channel=DilvanMoreira){:target="_blank"}
 
-### &#10144; Materials:
+### &#10146; Materials:
 
 * Slides
   * [Introduction to Semantic Technologies](https://drive.google.com/file/d/1XSNtXj0m_B85CFIh-RwFWO0qXXDAnZ3i/view?usp=sharing)
@@ -44,7 +44,7 @@
 
 * [Assignment 1 - RDF](https://docs.google.com/document/d/18jp2bbJZ8DKHof6Q4IHYDG6xkJa3XNrp/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
 
-### &#10144; Materials:
+### &#10146; Materials:
 
 * Slides:
   * [RDF](https://drive.google.com/file/d/1X22ZAsGkron6aL8bUi3GcJ7derf1Qj37/view?usp=sharing)
