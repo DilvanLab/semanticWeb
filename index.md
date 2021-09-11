@@ -54,6 +54,7 @@
 * [Exercise 2 - RDF](https://docs.google.com/document/d/1l0AYM_cyvwB-7rpNwq_ofehJ0zbeBZ0h/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true) 
 * [Exercise 2 - RDF Solutions](https://drive.google.com/file/d/1Xjrss-PIs1n3gGATFUVuMnLpQvlRz4VY/view?usp=sharing)
 
+---
 
 ## Jena Framework
 
@@ -74,4 +75,27 @@
 
 ---
 
+## SPARQL
 
+### &#9726; September 10
+
+* Live Video Lesson: [SPARQL 1](https://youtu.be/FCzW_40eWNw)
+
+### &#9726; September 14
+
+* Live Video Lesson: [SPARQL 2]()
+* 
+### &#9726; Assignment
+
+* [Assignment 2 - SPARQL](https://docs.google.com/document/d/1e-ZzehxeImgmOwg3s8s3_scoGb-Ibm2g/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
+
+### &#10144; Materials:
+
+* Slides: 
+  * [SPARQL 1](https://docs.google.com/presentation/d/150vSO4AYADzXgAdG3CaUQzdTlAsg1mIy/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
+  * [SPARQL 2](https://drive.google.com/file/d/1X6KNnc0xWJnfm9BhhYVFIWwfDdiW7V_d/view?usp=sharing)
+* [Exercise 4 - SPARQL](https://docs.google.com/document/d/1-fe4Vmc9pQDVzlWyNuOQyrrHq8JmOvVH/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true) 
+* [Exercise 4 - SPARQL](https://drive.google.com/file/d/1Y1awmUXfKB4LYhIDFZiPxkLpWZiwE-0-/view?usp=sharing)
+
+
+---
