@@ -6,7 +6,7 @@
 
 ### &#9726; August 17
 
-* Live Video Lesson: [Introduction to the Semantic Web Course](https://drive.google.com/file/d/1C-Us1uX9Qf6fjDXlQwDwQxmA6eRZ4z_S/view)
+* Live Video Lesson: [Introduction to the Semantic Web Course](https://drive.google.com/file/d/1C-Us1uX9Qf6fjDXlQwDwQxmA6eRZ4z_S/view){:target="_blank"}
 * Slides: [Course Introduction](https://docs.google.com/presentation/d/1wLZTtzQAIKsciLhCinure9bcAYggfc9S/edit#slide=id.p1)
 
 ---
@@ -15,11 +15,11 @@
 
 ### &#9726; August 20
 
-* Live Video Lesson: [Introduction to Semantic Technologies](https://www.youtube.com/watch?v=OzoFEnjllkk&ab_channel=DilvanMoreira)
+* Live Video Lesson: [Introduction to Semantic Technologies](https://www.youtube.com/watch?v=OzoFEnjllkk&ab_channel=DilvanMoreira){:target="_blank"}
 
 ### &#9726; August 24
 
-* Live Video Lesson: [Data Integration](https://www.youtube.com/watch?v=tWgLEVqkNNw&ab_channel=DilvanMoreira)
+* Live Video Lesson: [Data Integration](https://www.youtube.com/watch?v=tWgLEVqkNNw&ab_channel=DilvanMoreira){:target="_blank"}
 
 ### &#10144; Materials:
 
@@ -34,15 +34,15 @@
 
 ### &#9726; August 27
 
-* Live Video Lesson: [RDF - Resource Description Framework](https://youtu.be/G3UG5qcfopw)
+* Live Video Lesson: [RDF - Resource Description Framework](https://youtu.be/G3UG5qcfopw){:target="_blank"}
 
 ### &#9726; August 31
 
-* Live Video Lesson: [RDF 2 - Resource Description Framework](https://youtu.be/Ghu5VH-TRuE)
+* Live Video Lesson: [RDF 2 - Resource Description Framework](https://youtu.be/Ghu5VH-TRuE){:target="_blank"}
 
 ### &#10146; Assignment
 
-* [Assignment 1 - RDF](https://docs.google.com/document/d/18jp2bbJZ8DKHof6Q4IHYDG6xkJa3XNrp/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
+* [Assignment 1 - RDF](https://docs.google.com/document/d/18jp2bbJZ8DKHof6Q4IHYDG6xkJa3XNrp/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
 
 ### &#10144; Materials:
 
@@ -60,11 +60,11 @@
 
 ### &#9726; September 3
 
-* Live Video Lesson: [Jena Framework](https://youtu.be/Esr3Snkde34)
+* Live Video Lesson: [Jena Framework](https://youtu.be/Esr3Snkde34){:target="_blank"}
 
 ### &#10146; Assignment
 
-* [Assignment 2 - Jena](https://docs.google.com/document/d/1iVIiSTQm4gVGa-h76YR9TwMx5LI0ld_5/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
+* [Assignment 2 - Jena](https://docs.google.com/document/d/1iVIiSTQm4gVGa-h76YR9TwMx5LI0ld_5/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
 
 ### &#10144; Materials:
 
@@ -79,15 +79,15 @@
 
 ### &nbsp; &#9726; September 10
 
-* Live Video Lesson: [SPARQL Introduction](https://youtu.be/FCzW_40eWNw)
+* Live Video Lesson: [SPARQL Introduction](https://youtu.be/FCzW_40eWNw){:target="_blank"}
 
 ### &nbsp; &#9726; September 14
 
-* Live Video Lesson: [SPARQL Query Language]()
+* Live Video Lesson: [SPARQL Query Language](){:target="_blank"}
 
 ### &nbsp; &#9726; September 17
 
-* Live Video Lesson: [SPARQL 3]()
+* Live Video Lesson: [SPARQL 3](){:target="_blank"}
 
 ### &#10146; Assignment
 
