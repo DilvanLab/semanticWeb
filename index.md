@@ -79,11 +79,11 @@
 
 ### &#9726; September 10
 
-* Live Video Lesson: [SPARQL 1](https://youtu.be/FCzW_40eWNw)
+* Live Video Lesson: [SPARQL Introduction](https://youtu.be/FCzW_40eWNw)
 
 ### &#9726; September 14
 
-* Live Video Lesson: [SPARQL 2]()
+* Live Video Lesson: [SPARQL Query Language]()
 
 ### &#9726; September 17
 
@@ -97,8 +97,8 @@
 ### &#10144; Materials:
 
 * Slides: 
-  * [SPARQL 1](https://docs.google.com/presentation/d/150vSO4AYADzXgAdG3CaUQzdTlAsg1mIy/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
-  * [SPARQL 2](https://drive.google.com/file/d/1X6KNnc0xWJnfm9BhhYVFIWwfDdiW7V_d/view?usp=sharing)
+  * [SPARQL Introduction](https://docs.google.com/presentation/d/150vSO4AYADzXgAdG3CaUQzdTlAsg1mIy/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
+  * [SPARQL Query Language](https://drive.google.com/file/d/1X6KNnc0xWJnfm9BhhYVFIWwfDdiW7V_d/view?usp=sharing)
 * [Exercise 4 - SPARQL](https://docs.google.com/document/d/1-fe4Vmc9pQDVzlWyNuOQyrrHq8JmOvVH/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true) 
 * [Exercise 4 - SPARQL](https://drive.google.com/file/d/1Y1awmUXfKB4LYhIDFZiPxkLpWZiwE-0-/view?usp=sharing)
 
