@@ -24,7 +24,7 @@
 ### &#10144; Materials:
 
 * Slides
-  * [Introduction to Semantic Technologies](https://drive.google.com/file/d/1A0fqBQ_L6pvRLVyS_7LuG5FSD6OBQK3M/view)
+  * [Introduction to Semantic Technologies](https://drive.google.com/file/d/1XSNtXj0m_B85CFIh-RwFWO0qXXDAnZ3i/view?usp=sharing)
   * [Data Integration](https://docs.google.com/presentation/d/1psobuy_8coRvZ7JSi3lNQbr9Pg6-cpfD/edit)
 * [Exercise 1](https://docs.google.com/document/d/18dtWJ8ELt5aC5F9JDnKr3bHvuSnObYVy/edit)
 
@@ -34,9 +34,20 @@
 
 ### &#9726; August 27
 
-* Live Video Lesson: RDF - Resource Description Framework
+* Live Video Lesson: [RDF - Resource Description Framework](https://youtu.be/G3UG5qcfopw)
 
-### &#9726; August 30
+### &#9726; August 31
+
+* Live Video Lesson: [RDF 2 - Resource Description Framework](https://youtu.be/Ghu5VH-TRuE)
+
+### &#10144; Materials:
+
+* Slides:
+  * [RDF](https://drive.google.com/file/d/19wfiQNtHJR6P4f2UE9MP_FIvR1hBwy_W/view?usp=sharing)
+* [Assignment 1](https://docs.google.com/presentation/d/1psobuy_8coRvZ7JSi3lNQbr9Pg6-cpfD/edit)
+
+
+
 
 Video Course: 
 
