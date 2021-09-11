@@ -93,7 +93,7 @@
 
 * [Assignment 3 - SPARQL](https://docs.google.com/document/d/1e-ZzehxeImgmOwg3s8s3_scoGb-Ibm2g/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
 
-### &#10144; Materials:
+### &#10146; Materials:
 
 * Slides: 
   * [SPARQL Introduction](https://docs.google.com/presentation/d/150vSO4AYADzXgAdG3CaUQzdTlAsg1mIy/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
