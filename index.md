@@ -104,19 +104,15 @@
 
 ---
 
-## Mathematical Foundation & SPARQL 1.1
+## Mathematical Foundation & Reasoning with RDF
 
-### &nbsp; &#9726; September 21
+### &#9726; September 21
 
 * Live Video Lesson: [Mathematical Foundation](){:target="_blank"}
 
-### &nbsp; &#9726; September 24
+###  &#9726; September 24
 
 * Live Video Lesson: [Reasoning with RDF](){:target="_blank"}
-
-### &nbsp; &#9726; September 17
-
-* Live Video Lesson: [SPARQL 3](){:target="_blank"}
 
 ### &#10146; Assignment
 
@@ -127,6 +123,44 @@
 * Slides: 
   * [Mathematical Foundation](https://drive.google.com/file/d/1X75RiJgMn8Feb-OAgoh7JSzeP1o2NuZF/view?usp=sharing){:target="_blank"}
   * [Reasoning with RDF](https://drive.google.com/file/d/1X78s_BhMZCn6D_oNRQ3zqq2LSReQ52Rr/view?usp=sharing){:target="_blank"}
+* [Exercise 5 - Mathematical Foundation](https://drive.google.com/file/d/1YCAJx0qV7t8Jo6l78HCZfh6DdqOXbaJm/view?usp=sharing){:target="_blank"}
+* [Exercise 5 - Mathematical Foundation Solutions](https://drive.google.com/file/d/1Y5qTxRPhK6UnfWLhz9-fHNCSiK5k_xmJ/view?usp=sharing){:target="_blank"}
+* [Exercise 6 - RDFS and Reasoning](https://drive.google.com/file/d/1YIiXDms6kLXuVTBLUz6uK599EcuoXeQ-/view?usp=sharing){:target="_blank"}
+* [Exercise 6 - RDFS and Reasoning Solutions](https://drive.google.com/file/d/1YEhRZgmmRY4wGL6X_waXhenWu_Wxu3J4/view?usp=sharing){:target="_blank"}
+
+---
+
+## Ontology Engineering and OWL
+
+###  &#9726; September 24
+
+* Live Video Lesson: [Ontoogy Engineering](){:target="_blank"}
+
+### &#9726; September 21
+
+* Live Video Lesson: [OWL, the Web Ontology Language](){:target="_blank"}
+
+### &#9726; September 21
+
+* Live Video Lesson: [OWL 2](){:target="_blank"}
+
+### &#9726; September 21
+
+* Live Video Lesson: [OWL: Loose Ends](){:target="_blank"}
+
+### &#10146; Assignment
+
+* [Assignment 5 - Protégé](https://docs.google.com/document/d/1khEs4G3UZVp9Fww2YOcjehUParood-14/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
+* [Assignment 6 - OWL Modeling](https://drive.google.com/file/d/1H1GgRwJCNuuj_9yirwHlRgfShqysbvhi/view?usp=sharing){:target="_blank"}
+* [Assignment 7 - Zebra Puzzle](https://docs.google.com/document/d/1IQv_AWdh89y0q2tiFFotpr2yUW31AAK1/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
+
+### &#10146; Materials:
+
+* Slides: 
+  * [Ontology Engineering](https://drive.google.com/file/d/19BOwryR0ZN2B06tL84EFTjql2V-l2sOd/view?usp=sharing){:target="_blank"}
+  * [OWL, the Web Ontology Language](https://drive.google.com/file/d/1XI5sho8NIbn3C814c0U8f6uPyUzb_jOQ/view?usp=sharing){:target="_blank"}
+  * [OWL 2](https://drive.google.com/file/d/1XQYS9jjX0ic5qguqq2wen2WUUHzaUFYs/view?usp=sharing){:target="_blank"}
+  * [OWL: Loose Ends](https://drive.google.com/file/d/1WrIX9DKErWR2v4iCxpyS2p1UJvt6MLUO/view?usp=sharing){:target="_blank"}
 * [Exercise 5 - Mathematical Foundation](https://drive.google.com/file/d/1YCAJx0qV7t8Jo6l78HCZfh6DdqOXbaJm/view?usp=sharing){:target="_blank"}
 * [Exercise 5 - Mathematical Foundation Solutions](https://drive.google.com/file/d/1Y5qTxRPhK6UnfWLhz9-fHNCSiK5k_xmJ/view?usp=sharing){:target="_blank"}
 * [Exercise 6 - RDFS and Reasoning](https://drive.google.com/file/d/1YIiXDms6kLXuVTBLUz6uK599EcuoXeQ-/view?usp=sharing){:target="_blank"}
