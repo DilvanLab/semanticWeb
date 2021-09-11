@@ -66,7 +66,7 @@
 
 * [Assignment 2 - Jena](https://docs.google.com/document/d/1iVIiSTQm4gVGa-h76YR9TwMx5LI0ld_5/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
 
-### &#10144; Materials:
+### &#10146; Materials:
 
 * Slides: [Jena Framework](https://drive.google.com/file/d/1X3iuduwuIPMTZOUhi6ARcIZBt1TLMPg5/view?usp=sharing)
 * [Exercise 3 - Jena Framework](https://docs.google.com/document/d/1Q0kDdxAsO6G7TZ0cL-oKwxHFNkMI0mpf/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true) 
