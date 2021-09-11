@@ -103,3 +103,34 @@
 
 
 ---
+
+## Mathematical Foundation & SPARQL 1.1
+
+### &nbsp; &#9726; September 21
+
+* Live Video Lesson: [Mathematical Foundation](){:target="_blank"}
+
+### &nbsp; &#9726; September 24
+
+* Live Video Lesson: [Reasoning with RDF](){:target="_blank"}
+
+### &nbsp; &#9726; September 17
+
+* Live Video Lesson: [SPARQL 3](){:target="_blank"}
+
+### &#10146; Assignment
+
+* [Assignment 4 - RDFS Modeling](https://drive.google.com/file/d/1CXynohUfTnNGTjvGzW4cmxt5EKy0XXNm/view?usp=sharing){:target="_blank"}
+
+### &#10146; Materials:
+
+* Slides: 
+  * [Mathematical Foundation](https://drive.google.com/file/d/1X75RiJgMn8Feb-OAgoh7JSzeP1o2NuZF/view?usp=sharing){:target="_blank"}
+  * [Reasoning with RDF](https://drive.google.com/file/d/1X78s_BhMZCn6D_oNRQ3zqq2LSReQ52Rr/view?usp=sharing){:target="_blank"}
+* [Exercise 5 - Mathematical Foundation](https://drive.google.com/file/d/1YCAJx0qV7t8Jo6l78HCZfh6DdqOXbaJm/view?usp=sharing){:target="_blank"}
+* [Exercise 5 - Mathematical Foundation Solutions](https://drive.google.com/file/d/1Y5qTxRPhK6UnfWLhz9-fHNCSiK5k_xmJ/view?usp=sharing){:target="_blank"}
+* [Exercise 6 - RDFS and Reasoning](https://drive.google.com/file/d/1YIiXDms6kLXuVTBLUz6uK599EcuoXeQ-/view?usp=sharing){:target="_blank"}
+* [Exercise 6 - RDFS and Reasoning Solutions](https://drive.google.com/file/d/1YEhRZgmmRY4wGL6X_waXhenWu_Wxu3J4/view?usp=sharing){:target="_blank"}
+
+---
+
