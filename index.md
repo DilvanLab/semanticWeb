@@ -84,10 +84,15 @@
 ### &#9726; September 14
 
 * Live Video Lesson: [SPARQL 2]()
-* 
+
+### &#9726; September 17
+
+* Live Video Lesson: [SPARQL 3]()
+
+
 ### &#9726; Assignment
 
-* [Assignment 2 - SPARQL](https://docs.google.com/document/d/1e-ZzehxeImgmOwg3s8s3_scoGb-Ibm2g/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
+* [Assignment 3 - SPARQL](https://docs.google.com/document/d/1e-ZzehxeImgmOwg3s8s3_scoGb-Ibm2g/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
 
 ### &#10144; Materials:
 
