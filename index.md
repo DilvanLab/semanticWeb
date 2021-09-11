@@ -40,7 +40,7 @@
 
 * Live Video Lesson: [RDF 2 - Resource Description Framework](https://youtu.be/Ghu5VH-TRuE)
 
-### &#9726; Assignment
+### &#10146; Assignment
 
 * [Assignment 1 - RDF](https://docs.google.com/document/d/18jp2bbJZ8DKHof6Q4IHYDG6xkJa3XNrp/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
 
@@ -62,7 +62,7 @@
 
 * Live Video Lesson: [Jena Framework](https://youtu.be/Esr3Snkde34)
 
-### &#9726; Assignment
+### &#10146; Assignment
 
 * [Assignment 2 - Jena](https://docs.google.com/document/d/1iVIiSTQm4gVGa-h76YR9TwMx5LI0ld_5/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
 
@@ -75,7 +75,7 @@
 
 ---
 
-## SPARQL
+## SPARQL - SPARQL Protocol And RDF Query Language
 
 ### &#9726; September 10
 
@@ -90,11 +90,11 @@
 * Live Video Lesson: [SPARQL 3]()
 
 
-#### &#9726; Assignment
+### &#10146; Assignment
 
 * [Assignment 3 - SPARQL](https://docs.google.com/document/d/1e-ZzehxeImgmOwg3s8s3_scoGb-Ibm2g/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
 
-#### &#10144; Materials:
+### &#10144; Materials:
 
 * Slides: 
   * [SPARQL 1](https://docs.google.com/presentation/d/150vSO4AYADzXgAdG3CaUQzdTlAsg1mIy/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
