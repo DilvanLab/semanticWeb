@@ -111,6 +111,22 @@
 
 ---
 
+## Linked Open Data
+
+### &#9726; September 21
+
+* Live Video Lesson: [Linked Open Data](){:target="_blank"}
+
+### &#10146; Materials:
+
+* Slides: 
+  * [Linked Data](https://drive.google.com/file/d/1-cZu8ei0au6Cw9as6WI9reIgxRoAMPBW/view?usp=sharing){:target="_blank"}
+  * [Publishing RDF Data on the Web](https://drive.google.com/file/d/1Wu_iDu9pM7aLYxB_mglIU85Ga8wAR7lo/view?usp=sharing){:target="_blank"}
+* [Exercise 15 - Open data](https://drive.google.com/file/d/1ZF418yVC9fkxOfRaw5lHfmT32ZwpqEM-/view?usp=sharing){:target="_blank"}
+* [Exercise 15 - Open data Solutions](https://drive.google.com/file/d/1ZE0LMuGZZMzTeCcVXAvlLcbGIpzRitQk/view?usp=sharing){:target="_blank"}
+
+---
+
 ## Mathematical Foundation & Reasoning with RDF
 
 ### &#9726; September 21
