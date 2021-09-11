@@ -64,7 +64,7 @@
 
 ### &#10146; Assignment
 
-* [Assignment 2 - Jena](https://docs.google.com/document/d/1iVIiSTQm4gVGa-h76YR9TwMx5LI0ld_5/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
+* [Assignment 2 - Jena](https://drive.google.com/file/d/1J5nAQGsaJwT_771yBqT8I0Xy_GFUEP2y/view?usp=sharing){:target="_blank"}
 
 ### &#10146; Materials:
 
@@ -89,6 +89,10 @@
 
 * Live Video Lesson: [SPARQL 3](){:target="_blank"}
 
+### &nbsp; &#9726; September 17
+
+* Live Video Lesson: [SPARQL 1.1](){:target="_blank"}
+
 ### &#10146; Assignment
 
 * [Assignment 3 - SPARQL](https://docs.google.com/document/d/1e-ZzehxeImgmOwg3s8s3_scoGb-Ibm2g/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
@@ -98,8 +102,11 @@
 * Slides: 
   * [SPARQL Introduction](https://docs.google.com/presentation/d/150vSO4AYADzXgAdG3CaUQzdTlAsg1mIy/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
   * [SPARQL Query Language](https://drive.google.com/file/d/1X6KNnc0xWJnfm9BhhYVFIWwfDdiW7V_d/view?usp=sharing){:target="_blank"}
+  * [SPARQL 1.1](https://drive.google.com/file/d/1WrRCsoWTR1z7AtMrpIpEEqtoQOzVLBBS/view?usp=sharing){:target="_blank"}
 * [Exercise 4 - SPARQL](https://docs.google.com/document/d/1-fe4Vmc9pQDVzlWyNuOQyrrHq8JmOvVH/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 * [Exercise 4 - SPARQL Solutions](https://drive.google.com/file/d/1Y1awmUXfKB4LYhIDFZiPxkLpWZiwE-0-/view?usp=sharing){:target="_blank"}
+* [Exercise 12 - More SPARQL](https://drive.google.com/file/d/1YhrDHR7Zl4rqYg3tToVChxx59ra1uNKA/view?usp=sharing){:target="_blank"}
+* [Exercise 12 - More SPARQL Solutions](https://drive.google.com/file/d/1Yg9zxc-CJt4uTYj5TueFFX3ootsS99En/view?usp=sharing){:target="_blank"}
 
 
 ---
