@@ -40,11 +40,19 @@
 
 * Live Video Lesson: [RDF 2 - Resource Description Framework](https://youtu.be/Ghu5VH-TRuE)
 
+### &#9726; Assignment
+
+* [Assignment 1 - RDF](https://docs.google.com/document/d/18jp2bbJZ8DKHof6Q4IHYDG6xkJa3XNrp/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
+
 ### &#10144; Materials:
 
 * Slides:
-  * [RDF](https://drive.google.com/file/d/19wfiQNtHJR6P4f2UE9MP_FIvR1hBwy_W/view?usp=sharing)
-* [Assignment 1](https://docs.google.com/presentation/d/1psobuy_8coRvZ7JSi3lNQbr9Pg6-cpfD/edit)
+  * [RDF](https://drive.google.com/file/d/1X22ZAsGkron6aL8bUi3GcJ7derf1Qj37/view?usp=sharing)
+  * [RDF Basics](https://docs.google.com/presentation/d/19E6zQMwEKaUFD1o6pfo4ZWRTLV-E0kij/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
+  * [RDF Datatypes](https://docs.google.com/presentation/d/19BGOZkQgi9dxrfWz2rMmTawJwrQUE31k/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
+  * [RDF Collections](https://docs.google.com/presentation/d/198OGWqQ7If9x58KqLOZf9XZd5cpauOPC/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
+* [Exercise 2 - RDF](https://docs.google.com/document/d/1l0AYM_cyvwB-7rpNwq_ofehJ0zbeBZ0h/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true) 
+* [Exercise 2 - RDF Solutions](https://drive.google.com/file/d/1Xjrss-PIs1n3gGATFUVuMnLpQvlRz4VY/view?usp=sharing)
 
 
 
