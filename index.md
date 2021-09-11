@@ -42,7 +42,7 @@
 
 ### &#10146; Assignment
 
-* [Assignment 1 - RDF](https://docs.google.com/document/d/18jp2bbJZ8DKHof6Q4IHYDG6xkJa3XNrp/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
+* [Assignment 1 - RDF](https://docs.google.com/document/d/18jp2bbJZ8DKHof6Q4IHYDG6xkJa3XNrp/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 
 ### &#10144; Materials:
 
@@ -64,7 +64,7 @@
 
 ### &#10146; Assignment
 
-* [Assignment 2 - Jena](https://docs.google.com/document/d/1iVIiSTQm4gVGa-h76YR9TwMx5LI0ld_5/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
+* [Assignment 2 - Jena](https://docs.google.com/document/d/1iVIiSTQm4gVGa-h76YR9TwMx5LI0ld_5/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 
 ### &#10144; Materials:
 
@@ -91,7 +91,7 @@
 
 ### &#10146; Assignment
 
-* [Assignment 3 - SPARQL](https://docs.google.com/document/d/1e-ZzehxeImgmOwg3s8s3_scoGb-Ibm2g/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
+* [Assignment 3 - SPARQL](https://docs.google.com/document/d/1e-ZzehxeImgmOwg3s8s3_scoGb-Ibm2g/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 
 ### &#10146; Materials:
 
