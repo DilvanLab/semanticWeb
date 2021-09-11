@@ -90,17 +90,17 @@
 * Live Video Lesson: [SPARQL 3]()
 
 
-    ### &#10146; Assignment
+### &nbsp; &#10146; Assignment
 
-    * [Assignment 3 - SPARQL](https://docs.google.com/document/d/1e-ZzehxeImgmOwg3s8s3_scoGb-Ibm2g/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
+* [Assignment 3 - SPARQL](https://docs.google.com/document/d/1e-ZzehxeImgmOwg3s8s3_scoGb-Ibm2g/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
 
-    ### &#10144; Materials:
+### &nbsp; &#10144; Materials:
 
-    * Slides: 
-      * [SPARQL Introduction](https://docs.google.com/presentation/d/150vSO4AYADzXgAdG3CaUQzdTlAsg1mIy/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
-      * [SPARQL Query Language](https://drive.google.com/file/d/1X6KNnc0xWJnfm9BhhYVFIWwfDdiW7V_d/view?usp=sharing)
-    * [Exercise 4 - SPARQL](https://docs.google.com/document/d/1-fe4Vmc9pQDVzlWyNuOQyrrHq8JmOvVH/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true) 
-    * [Exercise 4 - SPARQL Solutions](https://drive.google.com/file/d/1Y1awmUXfKB4LYhIDFZiPxkLpWZiwE-0-/view?usp=sharing)
+* Slides: 
+  * [SPARQL Introduction](https://docs.google.com/presentation/d/150vSO4AYADzXgAdG3CaUQzdTlAsg1mIy/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
+  * [SPARQL Query Language](https://drive.google.com/file/d/1X6KNnc0xWJnfm9BhhYVFIWwfDdiW7V_d/view?usp=sharing)
+* [Exercise 4 - SPARQL](https://docs.google.com/document/d/1-fe4Vmc9pQDVzlWyNuOQyrrHq8JmOvVH/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true) 
+* [Exercise 4 - SPARQL Solutions](https://drive.google.com/file/d/1Y1awmUXfKB4LYhIDFZiPxkLpWZiwE-0-/view?usp=sharing)
 
 
 ---
