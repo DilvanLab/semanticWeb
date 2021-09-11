@@ -90,11 +90,11 @@
 * Live Video Lesson: [SPARQL 3]()
 
 
-### &#9726; Assignment
+#### &#9726; Assignment
 
 * [Assignment 3 - SPARQL](https://docs.google.com/document/d/1e-ZzehxeImgmOwg3s8s3_scoGb-Ibm2g/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
 
-### &#10144; Materials:
+#### &#10144; Materials:
 
 * Slides: 
   * [SPARQL 1](https://docs.google.com/presentation/d/150vSO4AYADzXgAdG3CaUQzdTlAsg1mIy/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
