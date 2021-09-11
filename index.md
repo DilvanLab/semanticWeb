@@ -77,24 +77,23 @@
 
 ## SPARQL - SPARQL Protocol And RDF Query Language
 
-### &#9726; September 10
+### &nbsp; &#9726; September 10
 
 * Live Video Lesson: [SPARQL Introduction](https://youtu.be/FCzW_40eWNw)
 
-### &#9726; September 14
+### &nbsp; &#9726; September 14
 
 * Live Video Lesson: [SPARQL Query Language]()
 
-### &#9726; September 17
+### &nbsp; &#9726; September 17
 
 * Live Video Lesson: [SPARQL 3]()
 
-
-### &nbsp; &#10146; Assignment
+### &#10146; Assignment
 
 * [Assignment 3 - SPARQL](https://docs.google.com/document/d/1e-ZzehxeImgmOwg3s8s3_scoGb-Ibm2g/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
 
-### &nbsp; &#10144; Materials:
+### &#10144; Materials:
 
 * Slides: 
   * [SPARQL Introduction](https://docs.google.com/presentation/d/150vSO4AYADzXgAdG3CaUQzdTlAsg1mIy/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
