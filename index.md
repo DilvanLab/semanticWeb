@@ -100,7 +100,7 @@
   * [SPARQL Introduction](https://docs.google.com/presentation/d/150vSO4AYADzXgAdG3CaUQzdTlAsg1mIy/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
   * [SPARQL Query Language](https://drive.google.com/file/d/1X6KNnc0xWJnfm9BhhYVFIWwfDdiW7V_d/view?usp=sharing)
 * [Exercise 4 - SPARQL](https://docs.google.com/document/d/1-fe4Vmc9pQDVzlWyNuOQyrrHq8JmOvVH/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true) 
-* [Exercise 4 - SPARQL](https://drive.google.com/file/d/1Y1awmUXfKB4LYhIDFZiPxkLpWZiwE-0-/view?usp=sharing)
+* [Exercise 4 - SPARQL Solutions](https://drive.google.com/file/d/1Y1awmUXfKB4LYhIDFZiPxkLpWZiwE-0-/view?usp=sharing)
 
 
 ---
