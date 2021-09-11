@@ -161,10 +161,10 @@
   * [OWL, the Web Ontology Language](https://drive.google.com/file/d/1XI5sho8NIbn3C814c0U8f6uPyUzb_jOQ/view?usp=sharing){:target="_blank"}
   * [OWL 2](https://drive.google.com/file/d/1XQYS9jjX0ic5qguqq2wen2WUUHzaUFYs/view?usp=sharing){:target="_blank"}
   * [OWL: Loose Ends](https://drive.google.com/file/d/1WrIX9DKErWR2v4iCxpyS2p1UJvt6MLUO/view?usp=sharing){:target="_blank"}
-* [Exercise 5 - Mathematical Foundation](https://drive.google.com/file/d/1YCAJx0qV7t8Jo6l78HCZfh6DdqOXbaJm/view?usp=sharing){:target="_blank"}
-* [Exercise 5 - Mathematical Foundation Solutions](https://drive.google.com/file/d/1Y5qTxRPhK6UnfWLhz9-fHNCSiK5k_xmJ/view?usp=sharing){:target="_blank"}
-* [Exercise 6 - RDFS and Reasoning](https://drive.google.com/file/d/1YIiXDms6kLXuVTBLUz6uK599EcuoXeQ-/view?usp=sharing){:target="_blank"}
-* [Exercise 6 - RDFS and Reasoning Solutions](https://drive.google.com/file/d/1YEhRZgmmRY4wGL6X_waXhenWu_Wxu3J4/view?usp=sharing){:target="_blank"}
+* [Exercise 9 - OWL](https://drive.google.com/file/d/1ZHQ0Y9UFLPJa6G0NFgKJluNiF0TNvh9Y/view?usp=sharing){:target="_blank"}
+* [Exercise 9 - OWL Solutions](https://drive.google.com/file/d/1YZnRm-d7V-2v_qpGplDrUSVqSOPQ95za/view?usp=sharing){:target="_blank"}
+* [Exercise 10 - More OWL](https://drive.google.com/file/d/1Yd3sRkynMj_-heBDNs8gaCJ_2TENqN6U/view?usp=sharing){:target="_blank"}
+* [Exercise 10 - More OWL Solutions](https://drive.google.com/file/d/1Yb10qZri9nXzuMYuO8pFrFy5GuqA71nz/view?usp=sharing){:target="_blank"}
 
 ---
 
