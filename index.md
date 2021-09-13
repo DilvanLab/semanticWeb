@@ -89,7 +89,7 @@
 
 * Live Video Lesson: [SPARQL 3](){:target="_blank"}
 
-### &nbsp; &#9726; September 17
+### &nbsp; &#9726; September 21
 
 * Live Video Lesson: [SPARQL 1.1](){:target="_blank"}
 
@@ -113,7 +113,7 @@
 
 ## Linked Open Data
 
-### &#9726; September 21
+### &#9726; September 24
 
 * Live Video Lesson: [Linked Open Data](){:target="_blank"}
 
@@ -129,11 +129,11 @@
 
 ## Mathematical Foundation & Reasoning with RDF
 
-### &#9726; September 21
+### &#9726; September 27
 
 * Live Video Lesson: [Mathematical Foundation](){:target="_blank"}
 
-###  &#9726; September 24
+###  &#9726; October 1
 
 * Live Video Lesson: [Reasoning with RDF](){:target="_blank"}
 
@@ -155,19 +155,19 @@
 
 ## Ontology Engineering and OWL
 
-###  &#9726; September 24
+###  &#9726; October 5
 
 * Live Video Lesson: [Ontoogy Engineering](){:target="_blank"}
 
-### &#9726; September 21
+### &#9726; October 8
 
 * Live Video Lesson: [OWL, the Web Ontology Language](){:target="_blank"}
 
-### &#9726; September 21
+### &#9726; October 15
 
 * Live Video Lesson: [OWL 2](){:target="_blank"}
 
-### &#9726; September 21
+### &#9726; October 19
 
 * Live Video Lesson: [OWL: Loose Ends](){:target="_blank"}
 
@@ -193,7 +193,7 @@
 
 ## RDF Validation
 
-###  &#9726; September 24
+###  &#9726; October 22
 
 * Live Video Lesson: [RDF Validation](){:target="_blank"}
 
