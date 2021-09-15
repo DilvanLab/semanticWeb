@@ -8,6 +8,7 @@
 * University of Oslo: [IN4060 – Semantic Technologies (Spring 2021)](https://www.uio.no/studier/emner/matnat/ifi/IN4060/v21/timeplan/index.html#FOR){:target="_blank"}
 * University of Oslo: [IN3060 – Semantic Technologies (Spring 2021)](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/timeplan/index.html#FOR){:target="_blank"}
 * Leicester University: [CO7216 Semantic Web](https://drive.google.com/file/d/18rr0oRNwsYfMKlOUZo8lqeW6AIsHzhR8/view?usp=sharing){:target="_blank"}
+* [Semantic Web Tutorial](https://docs.google.com/presentation/d/1pIsh0JXZbZF2raYvawGKRASFmAokoLyo/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 
 ---
 
