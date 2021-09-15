@@ -1,11 +1,14 @@
 # Schedule
 
-## [Syllabus](https://docs.google.com/document/d/1nCzY6mXi7LLrkOJQdUA-S2hLiVwO5IrP/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
+## [Syllabus](https://docs.google.com/document/d/1nCzY6mXi7LLrkOJQdUA-S2hLiVwO5IrP/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 
 ## Related Materials
 
-* [Group Assignment](https://docs.google.com/document/d/1jBmfcx2jJWseDVlxTgTibnxtclfIOlbO/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true)
-
+* [Group Assignment](https://docs.google.com/document/d/1jBmfcx2jJWseDVlxTgTibnxtclfIOlbO/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
+* University of Oslo: [IN4060 – Semantic Technologies (Spring 2021)](https://www.uio.no/studier/emner/matnat/ifi/IN4060/v21/timeplan/index.html#FOR){:target="_blank"}
+* University of Oslo: [IN3060 – Semantic Technologies (Spring 2021)](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/timeplan/index.html#FOR){:target="_blank"}
+* Leicester University: [CO7216 Semantic Web](https://drive.google.com/file/d/18rr0oRNwsYfMKlOUZo8lqeW6AIsHzhR8/view?usp=sharing){:target="_blank"}
+* [Last Year's Google Classroom Course](https://classroom.google.com/c/MjI2NTM3NDM0Mjg5?cjc=o6tuu7r){:target="_blank"} (use uma conta de email fora da USP)
 
 ---
 
