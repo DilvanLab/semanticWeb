@@ -1,6 +1,6 @@
 # Schedule
 
-### &#10061; [Course Syllabus](https://docs.google.com/document/d/1nCzY6mXi7LLrkOJQdUA-S2hLiVwO5IrP/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
+### &#10153; [Course Syllabus](https://docs.google.com/document/d/1nCzY6mXi7LLrkOJQdUA-S2hLiVwO5IrP/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 
 ## Related Materials
 
