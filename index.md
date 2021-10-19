@@ -169,21 +169,21 @@
 
 ## Ontology Engineering and OWL
 
-###  &#9726; October 5
+###  &#9726; October 19
 
-* Live Video Lesson: [Ontoogy Engineering](){:target="_blank"}
+* Live Video Lesson: [Ontoogy Engineering]
 
-### &#9726; October 8
+### &#9726; October 22
 
-* Live Video Lesson: [OWL, the Web Ontology Language](){:target="_blank"}
+* Live Video Lesson: [OWL, the Web Ontology Language]
 
-### &#9726; October 15
+### &#9726; October 26
 
-* Live Video Lesson: [OWL 2](){:target="_blank"}
+* Live Video Lesson: [OWL 2]
 
-### &#9726; October 19
+### &#9726; October 29
 
-* Live Video Lesson: [OWL: Loose Ends](){:target="_blank"}
+* Live Video Lesson: [OWL: Loose Ends]
 
 ### &#10146; Assignment
 
@@ -207,9 +207,9 @@
 
 ## RDF Validation
 
-###  &#9726; October 22
+###  &#9726; November 9
 
-* Live Video Lesson: [RDF Validation](){:target="_blank"}
+* Live Video Lesson: [RDF Validation]
 
 ### &#10146; Materials:
 
