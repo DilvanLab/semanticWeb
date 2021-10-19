@@ -93,15 +93,15 @@
 
 ### &nbsp; &#9726; September 14
 
-* Live Video Lesson: [SPARQL Query Language](){:target="_blank"}
+* Live Video Lesson: [SPARQL Query Language]
 
 ### &nbsp; &#9726; September 17
 
-* Live Video Lesson: [SPARQL 3](){:target="_blank"}
+* Live Video Lesson: [SPARQL 3]
 
 ### &nbsp; &#9726; September 21
 
-* Live Video Lesson: [SPARQL 1.1](){:target="_blank"}
+* Live Video Lesson: [SPARQL 1.1]
 
 ### &#10146; Assignment
 
@@ -125,7 +125,7 @@
 
 ### &#9726; September 24
 
-* Live Video Lesson: [Linked Open Data](){:target="_blank"}
+* Live Video Lesson: [Linked Open Data]
 
 ### &#10146; Materials:
 
@@ -139,13 +139,17 @@
 
 ## Mathematical Foundation & Reasoning with RDF
 
-### &#9726; September 27
+### &#9726; October 8
 
-* Live Video Lesson: [Mathematical Foundation](){:target="_blank"}
+* Live Video Lesson: [Mathematical Foundation]
 
-###  &#9726; October 1
+###  &#9726; October 12
 
-* Live Video Lesson: [Reasoning with RDF](){:target="_blank"}
+* **Holiday Nossa Senhora Aparecida **
+
+###  &#9726; October 15
+
+* Live Video Lesson: [Reasoning with RDF]
 
 ### &#10146; Assignment
 
