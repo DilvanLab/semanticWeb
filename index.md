@@ -145,7 +145,7 @@
 
 ###  &#9726; October 12
 
-* ***Holiday Nossa Senhora Aparecida ***
+* ***Holiday Nossa Senhora Aparecida***
 
 ###  &#9726; October 15
 
@@ -171,17 +171,25 @@
 
 ###  &#9726; October 19
 
-* Live Video Lesson: [Ontoogy Engineering]
+* Live Video Lesson: [Ontoogy Engineering Part1]
 
-### &#9726; October 22
+###  &#9726; October 22
 
-* Live Video Lesson: [OWL, the Web Ontology Language]
+* Live Video Lesson: [Ontoogy Engineering Part2]
 
 ### &#9726; October 26
 
-* Live Video Lesson: [OWL 2]
+* Live Video Lesson: [OWL, the Web Ontology Language]
 
 ### &#9726; October 29
+
+* Live Video Lesson: [OWL 2]
+
+### &#9726; November 1 - 5
+
+* ***Holidays Dia de Todos os Santos e Aniversário de São Carlos
+
+### &#9726; November 9
 
 * Live Video Lesson: [OWL: Loose Ends]
 
@@ -207,7 +215,7 @@
 
 ## RDF Validation
 
-###  &#9726; November 9
+###  &#9726; November 12
 
 * Live Video Lesson: [RDF Validation]
 
