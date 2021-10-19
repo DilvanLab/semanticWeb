@@ -145,11 +145,11 @@
 
 ###  &#9726; October 12
 
-* **Holiday Nossa Senhora Aparecida **
+* ***Holiday Nossa Senhora Aparecida ***
 
 ###  &#9726; October 15
 
-* Live Video Lesson: [Reasoning with RDF]
+* Live Video Lesson: [Reasoning with RDF](https://drive.google.com/file/d/1PfR3znRGepB3D1NoFg5XvEszxmHWp0ry/view?usp=sharing){:target="_blank"}
 
 ### &#10146; Assignment
 
