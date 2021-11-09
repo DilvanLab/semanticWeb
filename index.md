@@ -141,7 +141,7 @@
 
 ### &#9726; October 8
 
-* Live Video Lesson: [Mathematical Foundation]
+* Live Video Lesson: [Mathematical Foundation](https://youtu.be/6iXKGr3NCZg)
 
 ###  &#9726; October 12
 
@@ -171,19 +171,19 @@
 
 ###  &#9726; October 19
 
-* Live Video Lesson: [Ontoogy Engineering Part1]
+* Live Video Lesson: [Ontoogy Engineering Part1](https://drive.google.com/file/d/19-5xJIEHHiw9SbVOCuL9A9ZFFznmQE-S/view?usp=sharing)
 
 ###  &#9726; October 22
 
-* Live Video Lesson: [Ontoogy Engineering Part2]
+* Live Video Lesson: [Ontoogy Engineering Part2](https://drive.google.com/file/d/1U41H2a_wgrZ1uqjgN-ivmjnA_A5eDlvA/view?usp=sharing)
 
 ### &#9726; October 26
 
-* Live Video Lesson: [OWL, the Web Ontology Language]
+* Live Video Lesson: [OWL, the Web Ontology Language](https://drive.google.com/file/d/1kSULbvyYJqaX9n5kF4h-Kvt3twNIBYaw/view?usp=sharing)
 
 ### &#9726; October 29
 
-* Live Video Lesson: [OWL 2]
+* Live Video Lesson: [OWL - Web Ontology Language 2](https://drive.google.com/file/d/1OBmtP8emhPbeMN6eZRMQDli-wBox89wu/view?usp=sharing)
 
 ### &#9726; November 1 - 5
 
