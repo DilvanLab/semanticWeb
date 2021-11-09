@@ -4,6 +4,7 @@
 
 ## Related Materials
 
+* [Last year's course](https://classroom.google.com/c/MTUzNDcyMTQ4MDgz?cjc=vamuf5v){:target="_blank"} (Google Classroom).
 * [Group Assignment](https://docs.google.com/document/d/1jBmfcx2jJWseDVlxTgTibnxtclfIOlbO/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 * University of Oslo: [IN4060 – Semantic Technologies (Spring 2021)](https://www.uio.no/studier/emner/matnat/ifi/IN4060/v21/timeplan/index.html#FOR){:target="_blank"}
 * University of Oslo: [IN3060 – Semantic Technologies (Spring 2021)](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/timeplan/index.html#FOR){:target="_blank"}
@@ -62,7 +63,7 @@
   * [RDF Datatypes](https://docs.google.com/presentation/d/19BGOZkQgi9dxrfWz2rMmTawJwrQUE31k/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
   * [RDF Collections](https://docs.google.com/presentation/d/198OGWqQ7If9x58KqLOZf9XZd5cpauOPC/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 * [Exercise 2 - RDF](https://docs.google.com/document/d/1l0AYM_cyvwB-7rpNwq_ofehJ0zbeBZ0h/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"} 
-* [Exercise 2 - RDF Solutions](https://drive.google.com/file/d/1Xjrss-PIs1n3gGATFUVuMnLpQvlRz4VY/view?usp=sharing){:target="_blank"}
+  * [Exercise 2 - RDF Solutions](https://drive.google.com/file/d/1Xjrss-PIs1n3gGATFUVuMnLpQvlRz4VY/view?usp=sharing){:target="_blank"}
 
 ---
 
@@ -80,7 +81,7 @@
 
 * Slides: [Jena Framework](https://drive.google.com/file/d/1X3iuduwuIPMTZOUhi6ARcIZBt1TLMPg5/view?usp=sharing){:target="_blank"}
 * [Exercise 3 - Jena Framework](https://docs.google.com/document/d/1Q0kDdxAsO6G7TZ0cL-oKwxHFNkMI0mpf/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"} 
-* [Exercise 3 - Jena Framework Solutions](https://drive.google.com/file/d/1XuYbyRwBeBdiBkjPLtMLW5KNiyzSyWg_/view?usp=sharing){:target="_blank"}
+  * [Exercise 3 - Jena Framework Solutions](https://drive.google.com/file/d/1XuYbyRwBeBdiBkjPLtMLW5KNiyzSyWg_/view?usp=sharing){:target="_blank"}
 
 
 ---
@@ -115,10 +116,9 @@
   * [SPARQL Query Language](https://drive.google.com/file/d/1X6KNnc0xWJnfm9BhhYVFIWwfDdiW7V_d/view?usp=sharing){:target="_blank"}
   * [SPARQL 1.1](https://drive.google.com/file/d/1WrRCsoWTR1z7AtMrpIpEEqtoQOzVLBBS/view?usp=sharing){:target="_blank"}
 * [Exercise 4 - SPARQL](https://docs.google.com/document/d/1-fe4Vmc9pQDVzlWyNuOQyrrHq8JmOvVH/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
-* [Exercise 4 - SPARQL Solutions](https://drive.google.com/file/d/1Y1awmUXfKB4LYhIDFZiPxkLpWZiwE-0-/view?usp=sharing){:target="_blank"}
+  * [Exercise 4 - SPARQL Solutions](https://drive.google.com/file/d/1Y1awmUXfKB4LYhIDFZiPxkLpWZiwE-0-/view?usp=sharing){:target="_blank"}
 * [Exercise 12 - More SPARQL](https://drive.google.com/file/d/1YhrDHR7Zl4rqYg3tToVChxx59ra1uNKA/view?usp=sharing){:target="_blank"}
-* [Exercise 12 - More SPARQL Solutions](https://drive.google.com/file/d/1Yg9zxc-CJt4uTYj5TueFFX3ootsS99En/view?usp=sharing){:target="_blank"}
-
+  * [Exercise 12 - More SPARQL Solutions](https://drive.google.com/file/d/1Yg9zxc-CJt4uTYj5TueFFX3ootsS99En/view?usp=sharing){:target="_blank"}
 
 ---
 
@@ -170,7 +170,7 @@
 
 ---
 
-## Ontology Engineering and OWL
+## Ontology Engineering
 
 ###  &#9726; October 19
 
@@ -179,6 +179,15 @@
 ###  &#9726; October 22
 
 * Live Video Lesson: [Ontoogy Engineering Part2](https://drive.google.com/file/d/1U41H2a_wgrZ1uqjgN-ivmjnA_A5eDlvA/view?usp=sharing){:target="_blank"}
+
+### &#10146; Materials:
+
+* Slides: 
+  * [Ontology Engineering](https://drive.google.com/file/d/19BOwryR0ZN2B06tL84EFTjql2V-l2sOd/view?usp=sharing){:target="_blank"}
+  
+---
+
+## Web Ontology Language - OWL
 
 ### &#9726; October 26
 
@@ -213,7 +222,6 @@
 ### &#10146; Materials:
 
 * Slides: 
-  * [Ontology Engineering](https://drive.google.com/file/d/19BOwryR0ZN2B06tL84EFTjql2V-l2sOd/view?usp=sharing){:target="_blank"}
   * [OWL, the Web Ontology Language](https://drive.google.com/file/d/1XI5sho8NIbn3C814c0U8f6uPyUzb_jOQ/view?usp=sharing){:target="_blank"}
   * [OWL 2](https://drive.google.com/file/d/1XQYS9jjX0ic5qguqq2wen2WUUHzaUFYs/view?usp=sharing){:target="_blank"}
   * [OWL: Loose Ends](https://drive.google.com/file/d/1WrIX9DKErWR2v4iCxpyS2p1UJvt6MLUO/view?usp=sharing){:target="_blank"}
