@@ -102,6 +102,7 @@
 ### &nbsp; &#9726; September 21
 
 * Live Video Lesson: [SPARQL 1.1]
+* From Oslo (in English): [More SPARQL](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture12.mp4)
 
 ### &#10146; Assignment
 
@@ -126,6 +127,7 @@
 ### &#9726; September 24
 
 * Live Video Lesson: [Linked Open Data]
+* From Oslo (in English): [Publishing RDF Data on the Web](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture15.mp4){:target="_blank"}
 
 ### &#10146; Materials:
 
@@ -141,7 +143,7 @@
 
 ### &#9726; October 8
 
-* Live Video Lesson: [Mathematical Foundation](https://youtu.be/6iXKGr3NCZg)
+* Live Video Lesson: [Mathematical Foundation](https://youtu.be/6iXKGr3NCZg){:target="_blank"}
 
 ###  &#9726; October 12
 
@@ -150,6 +152,7 @@
 ###  &#9726; October 15
 
 * Live Video Lesson: [Reasoning with RDF](https://drive.google.com/file/d/1PfR3znRGepB3D1NoFg5XvEszxmHWp0ry/view?usp=sharing){:target="_blank"}
+* From Oslo (in English): [Introduction to Reasoning with RDF](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture6.mp4){:target="_blank"}
 
 ### &#10146; Assignment
 
@@ -171,19 +174,21 @@
 
 ###  &#9726; October 19
 
-* Live Video Lesson: [Ontoogy Engineering Part1](https://drive.google.com/file/d/19-5xJIEHHiw9SbVOCuL9A9ZFFznmQE-S/view?usp=sharing)
+* Live Video Lesson: [Ontoogy Engineering Part1](https://drive.google.com/file/d/19-5xJIEHHiw9SbVOCuL9A9ZFFznmQE-S/view?usp=sharing){:target="_blank"}
 
 ###  &#9726; October 22
 
-* Live Video Lesson: [Ontoogy Engineering Part2](https://drive.google.com/file/d/1U41H2a_wgrZ1uqjgN-ivmjnA_A5eDlvA/view?usp=sharing)
+* Live Video Lesson: [Ontoogy Engineering Part2](https://drive.google.com/file/d/1U41H2a_wgrZ1uqjgN-ivmjnA_A5eDlvA/view?usp=sharing){:target="_blank"}
 
 ### &#9726; October 26
 
 * Live Video Lesson: [OWL, the Web Ontology Language](https://drive.google.com/file/d/1kSULbvyYJqaX9n5kF4h-Kvt3twNIBYaw/view?usp=sharing)
+* From Oslo (English): [OWL Basics, Protégé](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture9.mp4){:target="_blank"}
 
 ### &#9726; October 29
 
 * Live Video Lesson: [OWL - Web Ontology Language 2](https://drive.google.com/file/d/1OBmtP8emhPbeMN6eZRMQDli-wBox89wu/view?usp=sharing)
+* From Oslo (English): [Protégé Demo](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v20/forelesningsvideoer/protege_demo.mp4){:target="_blank"}
 
 ### &#9726; November 1 - 5
 
@@ -191,7 +196,13 @@
 
 ### &#9726; November 9
 
+* Live Video Lesson: [OWL2]
+* From Oslo (English): [OWL 2] (https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture10.mp4){:target="_blank"}
+
+### &#9726; November 12
+
 * Live Video Lesson: [OWL: Loose Ends]
+* From Oslo (English): [OWL Loose Ends] (https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture11.mp4){:target="_blank"}
 
 ### &#10146; Assignment
 
@@ -215,9 +226,10 @@
 
 ## RDF Validation
 
-###  &#9726; November 12
+###  &#9726; November 16
 
 * Live Video Lesson: [RDF Validation]
+* From Oslo (in English): [RDF Validation](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture13.mp4){:target="_blank"}
 
 ### &#10146; Materials:
 
@@ -225,5 +237,19 @@
   * [RDF Validation](https://drive.google.com/file/d/1WskCAS9bRGKcZAMekzPmrqqhmMVtp4ip/view?usp=sharing){:target="_blank"}
 * [Exercise 13 - Validating RDF data](https://drive.google.com/file/d/1ZCHBb_uyriYfNUo656Y4at6pZb2JItln/view?usp=sharing){:target="_blank"}
 * [Exercise 13 - Validating RDF data Solutions](https://drive.google.com/file/d/1Z7gorqdxU_twdjXZJPkGQRACmJDJq9Ph/view?usp=sharing){:target="_blank"}
+
+---
+
+## Industrial Applications in Norway
+
+###  &#9726; November 19
+
+* From Oslo (in English): [Industrial Applications in Norway (Guest Lecture)](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/guestlecture.mp4){:target="_blank"}
+
+### &#10146; Materials:
+
+* Slides: 
+  * [Slides_Christian](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/undervisningsmateriale/guestlecture_aibel.pdf){:target="_blank"}
+  * [Slides_Dirk](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/undervisningsmateriale/guestlecture_dw_dnv.pdf){:target="_blank"}
 
 ---
