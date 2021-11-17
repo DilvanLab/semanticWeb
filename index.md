@@ -197,7 +197,6 @@
 ### &#9726; October 29
 
 * Live Video Lesson: [OWL - Web Ontology Language 2](https://drive.google.com/file/d/1OBmtP8emhPbeMN6eZRMQDli-wBox89wu/view?usp=sharing)
-* From Oslo (English): [Protégé Demo](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v20/forelesningsvideoer/protege_demo.mp4){:target="_blank"}
 
 ### &#9726; November 1 - 5
 
@@ -205,13 +204,30 @@
 
 ### &#9726; November 9
 
-* Live Video Lesson: [OWL2]
-* From Oslo (English): [OWL 2] (https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture10.mp4){:target="_blank"}
+* Live Video Lesson: [OWL - Web Ontology Language Part 3 & Protégé Demo](https://drive.google.com/file/d/1LlHfwCs2xA4_Sx5bjw9okssf7I90GKf8/view?usp=sharing)
+* From Oslo (English): [Protégé Demo](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v20/forelesningsvideoer/protege_demo.mp4){:target="_blank"}
 
 ### &#9726; November 12
 
-* Live Video Lesson: [OWL: Loose Ends]
-* From Oslo (English): [OWL Loose Ends] (https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture11.mp4){:target="_blank"}
+* Live Video Lesson: [OWL2 Part1](https://drive.google.com/file/d/1Y2AjJlLueoNp5_VWTPltj83hVfPHtXG1/view?usp=sharing)
+* From Oslo (English): [OWL 2](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture10.mp4){:target="_blank"}
+
+### &#9726; November 16
+
+* Live Video Lesson: [OWL2 Part2](https://drive.google.com/file/d/1hdT6euPWT5UBxdTRoPWXo0G4Y8y2UrOC/view?usp=sharing)
+
+### &#9726; November 19
+
+* Work Discussion Class
+
+### &#9726; November 23
+
+* Live Video Lesson: [OWL: Loose Ends - Part 1]
+* From Oslo (English): [OWL Loose Ends](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture11.mp4){:target="_blank"}
+
+### &#9726; November 26
+
+* Live Video Lesson: [OWL: Loose Ends - Part 2]
 
 ### &#10146; Assignment
 
@@ -234,7 +250,7 @@
 
 ## RDF Validation
 
-###  &#9726; November 16
+###  &#9726; November 30
 
 * Live Video Lesson: [RDF Validation]
 * From Oslo (in English): [RDF Validation](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture13.mp4){:target="_blank"}
