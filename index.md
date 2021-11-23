@@ -222,10 +222,14 @@
 
 ### &#9726; November 23
 
+* Work and Exercises Discussion Class 
+
+### &#9726; November 26
+
 * Live Video Lesson: [OWL: Loose Ends - Part 1]
 * From Oslo (English): [OWL Loose Ends](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture11.mp4){:target="_blank"}
 
-### &#9726; November 26
+### &#9726; November 30
 
 * Live Video Lesson: [OWL: Loose Ends - Part 2]
 
@@ -250,7 +254,7 @@
 
 ## RDF Validation
 
-###  &#9726; November 30
+###  &#9726; December 3
 
 * Live Video Lesson: [RDF Validation]
 * From Oslo (in English): [RDF Validation](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture13.mp4){:target="_blank"}
