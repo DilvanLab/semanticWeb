@@ -200,7 +200,7 @@
 
 ### &#9726; November 1 - 5
 
-* ***Holidays Dia de Todos os Santos e Aniversário de São Carlos
+* ***Holidays Dia de Todos os Santos e Aniversário de São Carlos***
 
 ### &#9726; November 9
 
