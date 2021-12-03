@@ -256,7 +256,7 @@
 
 ###  &#9726; December 3
 
-* Live Video Lesson: [RDF Validation]
+* Live Video Lesson: [RDF Validation](https://youtu.be/ZCQfYJtBQ-I){:target="_blank"}
 * From Oslo (in English): [RDF Validation](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture13.mp4){:target="_blank"}
 
 ### &#10146; Materials:
