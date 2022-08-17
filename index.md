@@ -4,7 +4,7 @@
 
 ## Related Materials
 
-* [Last year's course](https://classroom.google.com/c/MTUzNDcyMTQ4MDgz?cjc=vamuf5v){:target="_blank"} (Google Classroom).
+* [2020's course](https://classroom.google.com/c/MTUzNDcyMTQ4MDgz?cjc=vamuf5v){:target="_blank"} (Google Classroom).
 * [Group Assignment](https://docs.google.com/document/d/1jBmfcx2jJWseDVlxTgTibnxtclfIOlbO/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 * University of Oslo: [IN4060 – Semantic Technologies (Spring 2021)](https://www.uio.no/studier/emner/matnat/ifi/IN4060/v21/timeplan/index.html#FOR){:target="_blank"}
 * University of Oslo: [IN3060 – Semantic Technologies (Spring 2021)](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/timeplan/index.html#FOR){:target="_blank"}
