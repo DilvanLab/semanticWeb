@@ -24,11 +24,11 @@
 
 ## Semantic Web Introduction
 
-### &#9726; August 20
+### &#9726; August 22 - 24
 
 * Live Video Lesson: [Introduction to Semantic Technologies](https://www.youtube.com/watch?v=OzoFEnjllkk&ab_channel=DilvanMoreira){:target="_blank"}
 
-### &#9726; August 24
+### &#9726; August 29
 
 * Live Video Lesson: [Data Integration](https://www.youtube.com/watch?v=tWgLEVqkNNw&ab_channel=DilvanMoreira){:target="_blank"}
 
@@ -43,11 +43,11 @@
 
 ## RDF - Resource Description Framework
 
-### &#9726; August 27
+### &#9726; August 31
 
 * Live Video Lesson: [RDF - Resource Description Framework](https://youtu.be/G3UG5qcfopw){:target="_blank"}
 
-### &#9726; August 31
+### &#9726; September 12
 
 * Live Video Lesson: [RDF 2 - Resource Description Framework](https://youtu.be/Ghu5VH-TRuE){:target="_blank"}
 
@@ -69,7 +69,7 @@
 
 ## Jena Framework
 
-### &#9726; September 3
+### &#9726; September 14
 
 * Live Video Lesson: [Jena Framework](https://youtu.be/Esr3Snkde34){:target="_blank"}
 
@@ -88,19 +88,19 @@
 
 ## SPARQL - SPARQL Protocol And RDF Query Language
 
-### &nbsp; &#9726; September 10
+### &nbsp; &#9726; September 19
 
 * Live Video Lesson: [SPARQL Introduction](https://youtu.be/FCzW_40eWNw){:target="_blank"}
 
-### &nbsp; &#9726; September 14
+### &nbsp; &#9726; September 21
 
 * Live Video Lesson: [SPARQL Query Language]
 
-### &nbsp; &#9726; September 17
+### &nbsp; &#9726; September 26
 
-* Live Video Lesson: [SPARQL 3]
+* Live Video Lesson: [SPARQL 3]  
 
-### &nbsp; &#9726; September 21
+### &nbsp; &#9726; September 28 
 
 * Live Video Lesson: [SPARQL 1.1]
 * From Oslo (in English): [More SPARQL](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture12.mp4)
@@ -124,7 +124,7 @@
 
 ## Linked Open Data
 
-### &#9726; September 24
+### &#9726; October 3
 
 * Live Video Lesson: [Linked Open Data]
 * From Oslo (in English): [Publishing RDF Data on the Web](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture15.mp4){:target="_blank"}
@@ -141,18 +141,20 @@
 
 ## Mathematical Foundation & Reasoning with RDF
 
-### &#9726; October 8
+### &#9726; October 5
 
 * Live Video Lesson: [Mathematical Foundation](https://youtu.be/6iXKGr3NCZg){:target="_blank"}
+
+
+###  &#9726; October 10
+
+* Live Video Lesson: [Reasoning with RDF](https://drive.google.com/file/d/1PfR3znRGepB3D1NoFg5XvEszxmHWp0ry/view?usp=sharing){:target="_blank"}
+* From Oslo (in English): [Introduction to Reasoning with RDF](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture6.mp4){:target="_blank"}
 
 ###  &#9726; October 12
 
 * ***Holiday Nossa Senhora Aparecida***
 
-###  &#9726; October 15
-
-* Live Video Lesson: [Reasoning with RDF](https://drive.google.com/file/d/1PfR3znRGepB3D1NoFg5XvEszxmHWp0ry/view?usp=sharing){:target="_blank"}
-* From Oslo (in English): [Introduction to Reasoning with RDF](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture6.mp4){:target="_blank"}
 
 ### &#10146; Assignment
 
@@ -172,11 +174,11 @@
 
 ## Ontology Engineering
 
-###  &#9726; October 19
+###  &#9726; October 17
 
 * Live Video Lesson: [Ontoogy Engineering Part1](https://drive.google.com/file/d/19-5xJIEHHiw9SbVOCuL9A9ZFFznmQE-S/view?usp=sharing){:target="_blank"}
 
-###  &#9726; October 22
+###  &#9726; October 19
 
 * Live Video Lesson: [Ontoogy Engineering Part2](https://drive.google.com/file/d/1U41H2a_wgrZ1uqjgN-ivmjnA_A5eDlvA/view?usp=sharing){:target="_blank"}
 
@@ -189,47 +191,49 @@
 
 ## Web Ontology Language - OWL
 
-### &#9726; October 26
+### &#9726; October 24
 
 * Live Video Lesson: [OWL, the Web Ontology Language](https://drive.google.com/file/d/1kSULbvyYJqaX9n5kF4h-Kvt3twNIBYaw/view?usp=sharing)
 * From Oslo (English): [OWL Basics, Protégé](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture9.mp4){:target="_blank"}
 
-### &#9726; October 29
+### &#9726; October 26
 
 * Live Video Lesson: [OWL - Web Ontology Language 2](https://drive.google.com/file/d/1OBmtP8emhPbeMN6eZRMQDli-wBox89wu/view?usp=sharing)
 
-### &#9726; November 1 - 5
 
-* ***Holidays Dia de Todos os Santos e Aniversário de São Carlos***
-
-### &#9726; November 9
+### &#9726; October 31
 
 * Live Video Lesson: [OWL - Web Ontology Language Part 3 & Protégé Demo](https://drive.google.com/file/d/1LlHfwCs2xA4_Sx5bjw9okssf7I90GKf8/view?usp=sharing)
 * From Oslo (English): [Protégé Demo](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v20/forelesningsvideoer/protege_demo.mp4){:target="_blank"}
 
-### &#9726; November 12
+### &#9726; November 1
+
+* ***Holidays Dia de Todos os Santos e Aniversário de São Carlos***
+
+
+### &#9726; November 7
 
 * Live Video Lesson: [OWL2 Part1](https://drive.google.com/file/d/1Y2AjJlLueoNp5_VWTPltj83hVfPHtXG1/view?usp=sharing)
 * From Oslo (English): [OWL 2](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture10.mp4){:target="_blank"}
 
-### &#9726; November 16
+### &#9726; November 9
 
 * Live Video Lesson: [OWL2 Part2](https://drive.google.com/file/d/1hdT6euPWT5UBxdTRoPWXo0G4Y8y2UrOC/view?usp=sharing)
 
-### &#9726; November 19
+### &#9726; November 14
 
-* Work Discussion Class
+* ***Holidays Republic Creation***
 
-### &#9726; November 23
+### &#9726; November 16
 
 * Work and Exercises Discussion Class 
 
-### &#9726; November 26
+### &#9726; November 21
 
 * Live Video Lesson: [OWL: Loose Ends - Part 1]
 * From Oslo (English): [OWL Loose Ends](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture11.mp4){:target="_blank"}
 
-### &#9726; November 30
+### &#9726; November 23
 
 * Live Video Lesson: [OWL: Loose Ends - Part 2]
 
@@ -254,7 +258,7 @@
 
 ## RDF Validation
 
-###  &#9726; December 3
+###  &#9726; November 28
 
 * Live Video Lesson: [RDF Validation](https://youtu.be/ZCQfYJtBQ-I){:target="_blank"}
 * From Oslo (in English): [RDF Validation](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture13.mp4){:target="_blank"}
@@ -270,7 +274,7 @@
 
 ## Industrial Applications in Norway
 
-###  &#9726; November 19
+###  &#9726; November 30
 
 * From Oslo (in English): [Industrial Applications in Norway (Guest Lecture)](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/guestlecture.mp4){:target="_blank"}
 
