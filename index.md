@@ -46,11 +46,12 @@
 ### &#9726; August 31
 
 * Live Video Lesson: [RDF - Resource Description Framework](https://youtu.be/G3UG5qcfopw){:target="_blank"}
-* Google meeting: [Introduction to Semantic Technologies](https://drive.google.com/file/d/1171foASIHlymdeuLPDmeI6yiJbOm28bv/view?usp=sharing){:target="_blank"}
+* Google Meeting: [RDF - Resource Description Framework](https://drive.google.com/file/d/1171foASIHlymdeuLPDmeI6yiJbOm28bv/view?usp=sharing){:target="_blank"}
 
 ### &#9726; September 12
 
-* Live Video Lesson: [RDF 2 - Resource Description Framework](https://youtu.be/Ghu5VH-TRuE){:target="_blank"}
+* Live Video Lesson: [RDF Review & JENA](https://youtu.be/Ghu5VH-TRuE){:target="_blank"} (Only the RDF part)
+* Google Meeting: [RDF Review & JENA](https://drive.google.com/file/d/1jJzzG5PRH4yO0UAxi1zm_dcHhwcRp1gB/view?usp=sharing){:target="_blank"} (Only the RDF part)
 
 ### &#10146; Assignment
 
