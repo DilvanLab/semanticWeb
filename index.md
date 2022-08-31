@@ -27,7 +27,6 @@
 ### &#9726; August 22 - 24
 
 * Live Video Lesson: [Introduction to Semantic Technologies](https://www.youtube.com/watch?v=OzoFEnjllkk&ab_channel=DilvanMoreira){:target="_blank"}
-* Google meeting: [Introduction to Semantic Technologies](https://drive.google.com/file/d/1171foASIHlymdeuLPDmeI6yiJbOm28bv/view?usp=sharing){:target="_blank"}
 
 ### &#9726; August 29
 
@@ -47,6 +46,7 @@
 ### &#9726; August 31
 
 * Live Video Lesson: [RDF - Resource Description Framework](https://youtu.be/G3UG5qcfopw){:target="_blank"}
+* Google meeting: [Introduction to Semantic Technologies](https://drive.google.com/file/d/1171foASIHlymdeuLPDmeI6yiJbOm28bv/view?usp=sharing){:target="_blank"}
 
 ### &#9726; September 12
 
