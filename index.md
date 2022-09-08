@@ -73,7 +73,8 @@
 
 ### &#9726; September 14
 
-* Live Video Lesson: [Jena Framework](https://youtu.be/Esr3Snkde34){:target="_blank"}
+* Live Video Lesson: [Jena Framework](https://youtu.be/VrE3gay8d68){:target="_blank"}
+* Live Video Lesson: [Jena Framework 2](https://youtu.be/Esr3Snkde34){:target="_blank"}
 
 ### &#10146; Assignment
 
