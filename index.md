@@ -98,11 +98,11 @@
 
 ### &nbsp; &#9726; September 21
 
-* Live Video Lesson: [SPARQL Query Language 1](https://drive.google.com/file/d/171EW1IpjMMowZX1f8OERo_dWvpm4BmEc/view?usp=sharing){:target="_blank"}
+* Live Video Lesson: [SPARQL Query Language 1](https://drive.google.com/file/d/171EW1IpjMMowZX1f8OERo_dWvpm4BmEc/view?usp=sharing){:target="_blank"} Full presentation from 2020.
 
 ### &nbsp; &#9726; September 26
 
-* Live Video Lesson: [SPARQL Query Language 2](https://drive.google.com/file/d/1yJXGq6STu34TOFdeObkmwBPzrvE3gtQe/view?usp=sharing){:target="_blank"}  
+* Live Video Lesson: [SPARQL Query Language 2](https://drive.google.com/file/d/1yJXGq6STu34TOFdeObkmwBPzrvE3gtQe/view?usp=sharing){:target="_blank"} From Query patterns.  
 
 ### &nbsp; &#9726; September 28 
 
