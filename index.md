@@ -51,7 +51,6 @@
 ### &#9726; September 12
 
 * Live Video Lesson: [RDF 2 Comments](https://youtu.be/5xG1oLL_riE){:target="_blank"}
-* Google Meeting: [RDF Review & JENA](https://drive.google.com/file/d/1jJzzG5PRH4yO0UAxi1zm_dcHhwcRp1gB/view?usp=sharing){:target="_blank"} (Only the RDF part)
 
 ### &#10146; Assignment
 
