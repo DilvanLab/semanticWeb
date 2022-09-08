@@ -105,7 +105,7 @@
 
 ### &nbsp; &#9726; September 28 
 
-* Live Video Lesson: [SPARQL 1.1]
+* Live Video Lesson: [SPARQL 1.1](https://drive.google.com/file/d/1G85EMrwQtMD5Qi9ZA4F4771JkvF2cc91/view?usp=sharing)
 * From Oslo (in English): [More SPARQL](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture12.mp4)
 
 ### &#10146; Assignment
