@@ -50,7 +50,7 @@
 
 ### &#9726; September 12
 
-* Live Video Lesson: [RDF Review & JENA](https://youtu.be/Ghu5VH-TRuE){:target="_blank"} (Only the RDF part)
+* Live Video Lesson: [RDF 2 Comments](https://youtu.be/5xG1oLL_riE){:target="_blank"}
 * Google Meeting: [RDF Review & JENA](https://drive.google.com/file/d/1jJzzG5PRH4yO0UAxi1zm_dcHhwcRp1gB/view?usp=sharing){:target="_blank"} (Only the RDF part)
 
 ### &#10146; Assignment
@@ -93,7 +93,7 @@
 ### &nbsp; &#9726; September 19
 
 * Live Video Lesson: [SPARQL Introduction](https://youtu.be/FCzW_40eWNw){:target="_blank"}
-* Google Meeting: [[SPARQL Introduction](https://drive.google.com/file/d/1k6YvsyGuIlogFgXDKq6eE7qFTI6V1aPX/view?usp=sharing){:target="_blank"}
+* Google Meeting: [SPARQL Introduction](https://drive.google.com/file/d/1k6YvsyGuIlogFgXDKq6eE7qFTI6V1aPX/view?usp=sharing){:target="_blank"}
 
 ### &nbsp; &#9726; September 21
 
@@ -101,7 +101,7 @@
 
 ### &nbsp; &#9726; September 26
 
-* Live Video Lesson: [SPARQL 3]  
+* Live Video Lesson: [SPARQL 3](https://drive.google.com/file/d/1yJXGq6STu34TOFdeObkmwBPzrvE3gtQe/view?usp=sharing){:target="_blank"}  
 
 ### &nbsp; &#9726; September 28 
 
