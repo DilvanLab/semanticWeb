@@ -93,6 +93,7 @@
 ### &nbsp; &#9726; September 19
 
 * Live Video Lesson: [SPARQL Introduction](https://youtu.be/FCzW_40eWNw){:target="_blank"}
+* Google Meeting: [[SPARQL Introduction](https://drive.google.com/file/d/1k6YvsyGuIlogFgXDKq6eE7qFTI6V1aPX/view?usp=sharing){:target="_blank"}
 
 ### &nbsp; &#9726; September 21
 
