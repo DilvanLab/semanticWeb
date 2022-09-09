@@ -45,12 +45,11 @@
 
 ### &#9726; August 31
 
-* Live Video Lesson: [RDF - Resource Description Framework](https://youtu.be/G3UG5qcfopw){:target="_blank"}
-* Google Meeting: [RDF - Resource Description Framework](https://drive.google.com/file/d/1171foASIHlymdeuLPDmeI6yiJbOm28bv/view?usp=sharing){:target="_blank"}
+* Uncut Video Lesson: [RDF - Resource Description Framework](https://drive.google.com/file/d/1171foASIHlymdeuLPDmeI6yiJbOm28bv/view?usp=sharing){:target="_blank"}
 
 ### &#9726; September 12
 
-* Live Video Lesson: [RDF 2 Comments](https://youtu.be/5xG1oLL_riE){:target="_blank"}
+* Video Lesson: [RDF 2 Comments](https://youtu.be/5xG1oLL_riE){:target="_blank"}
 
 ### &#10146; Assignment
 
@@ -72,8 +71,8 @@
 
 ### &#9726; September 14
 
-* Live Video Lesson: [Jena Framework](https://youtu.be/VrE3gay8d68){:target="_blank"}
-* Live Video Lesson: [Jena Framework 2](https://youtu.be/Esr3Snkde34){:target="_blank"}
+* Video Lesson: [Jena Framework](https://youtu.be/VrE3gay8d68){:target="_blank"}
+* Video Lesson: [Jena Framework 2](https://youtu.be/Esr3Snkde34){:target="_blank"}
 
 ### &#10146; Assignment
 
@@ -92,20 +91,19 @@
 
 ### &nbsp; &#9726; September 19
 
-* Live Video Lesson: [SPARQL Introduction](https://youtu.be/FCzW_40eWNw){:target="_blank"}
-* Google Meeting: [SPARQL Introduction](https://drive.google.com/file/d/1k6YvsyGuIlogFgXDKq6eE7qFTI6V1aPX/view?usp=sharing){:target="_blank"}
+* Uncut Video Lesson: [SPARQL Introduction](https://drive.google.com/file/d/1k6YvsyGuIlogFgXDKq6eE7qFTI6V1aPX/view?usp=sharing){:target="_blank"}
 
 ### &nbsp; &#9726; September 21
 
-* Live Video Lesson: [SPARQL Query Language 1](https://drive.google.com/file/d/171EW1IpjMMowZX1f8OERo_dWvpm4BmEc/view?usp=sharing){:target="_blank"} Full presentation from 2020. Watch up to Query Patterns and then see __SPARQL Query Language 2__.
+* Uncut Video Lesson: [SPARQL Query Language 1](https://drive.google.com/file/d/171EW1IpjMMowZX1f8OERo_dWvpm4BmEc/view?usp=sharing){:target="_blank"} Full presentation from 2020. Watch up to Query Patterns and then see __SPARQL Query Language 2__.
 
 ### &nbsp; &#9726; September 26
 
-* Live Video Lesson: [SPARQL Query Language 2](https://drive.google.com/file/d/1yJXGq6STu34TOFdeObkmwBPzrvE3gtQe/view?usp=sharing){:target="_blank"} From Query patterns.  
+* Uncut Video Lesson: [SPARQL Query Language 2](https://drive.google.com/file/d/1yJXGq6STu34TOFdeObkmwBPzrvE3gtQe/view?usp=sharing){:target="_blank"} From Query patterns.  
 
 ### &nbsp; &#9726; September 28 
 
-* Live Video Lesson: [SPARQL 1.1](https://drive.google.com/file/d/1G85EMrwQtMD5Qi9ZA4F4771JkvF2cc91/view?usp=sharing){:target="_blank"} 
+* Uncut Video Lesson: [SPARQL 1.1](https://drive.google.com/file/d/1G85EMrwQtMD5Qi9ZA4F4771JkvF2cc91/view?usp=sharing){:target="_blank"} 
 * From Oslo (in English): [More SPARQL](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture12.mp4)
 
 ### &#10146; Assignment
