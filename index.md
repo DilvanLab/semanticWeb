@@ -71,6 +71,7 @@
 
 ### &#9726; September 19 - 21 <!--- September 14 Medico-->
 
+* Quiz 1
 * Video Lesson: [Jena Framework](https://youtu.be/VrE3gay8d68){:target="_blank"}
 * Video Lesson: [Jena Framework 2](https://youtu.be/Esr3Snkde34){:target="_blank"}
 
