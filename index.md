@@ -101,7 +101,6 @@
 ### &nbsp; &#9726; October 5 <!--- September 21 -->
 
 * Quiz 2
-
 * Uncut Video Lesson: [SPARQL Query Language 1](https://drive.google.com/file/d/171EW1IpjMMowZX1f8OERo_dWvpm4BmEc/view?usp=sharing){:target="_blank"} Full presentation from 2020. Watch up to Query Patterns and then see __SPARQL Query Language 2__.
 
 ### &nbsp; &#9726; October 10 <!--- September 26 -->
