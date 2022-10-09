@@ -113,6 +113,7 @@
 
 ### &nbsp; &#9726; October 17 <!--- September 28 --> 
 
+* Quiz 3
 * Uncut Video Lesson: [SPARQL 1.1](https://drive.google.com/file/d/1G85EMrwQtMD5Qi9ZA4F4771JkvF2cc91/view?usp=sharing){:target="_blank"} 
 * From Oslo (in English): [More SPARQL](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture12.mp4)
 
@@ -138,6 +139,7 @@
 
 ### &#9726; October 19
 
+* Quiz 4
 * Live Video Lesson: [Linked Open Data]
 * From Oslo (in English): [Publishing RDF Data on the Web](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture15.mp4){:target="_blank"}
 
@@ -163,9 +165,6 @@
 * Live Video Lesson: [Reasoning with RDF](https://drive.google.com/file/d/1PfR3znRGepB3D1NoFg5XvEszxmHWp0ry/view?usp=sharing){:target="_blank"}
 * From Oslo (in English): [Introduction to Reasoning with RDF](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture6.mp4){:target="_blank"}
 
-
-
-
 ### &#10146; Assignment
 
 * [Assignment 4 - RDFS Modeling](https://drive.google.com/file/d/1CXynohUfTnNGTjvGzW4cmxt5EKy0XXNm/view?usp=sharing){:target="_blank"}
@@ -186,7 +185,7 @@
 
 ###  &#9726; October 31
 
-* Live Video Lesson: [Ontoogy Engineering Part1](https://drive.google.com/file/d/19-5xJIEHHiw9SbVOCuL9A9ZFFznmQE-S/view?usp=sharing){:target="_blank"}
+* Live Video Lesson: [Ontology Engineering Part1](https://drive.google.com/file/d/19-5xJIEHHiw9SbVOCuL9A9ZFFznmQE-S/view?usp=sharing){:target="_blank"}
 
 ### &#9726; November 2
 
@@ -194,7 +193,7 @@
 
 ###  &#9726; November 7
 
-* Live Video Lesson: [Ontoogy Engineering Part2](https://drive.google.com/file/d/1U41H2a_wgrZ1uqjgN-ivmjnA_A5eDlvA/view?usp=sharing){:target="_blank"}
+* Live Video Lesson: [Ontology Engineering Part2](https://drive.google.com/file/d/1U41H2a_wgrZ1uqjgN-ivmjnA_A5eDlvA/view?usp=sharing){:target="_blank"}
 
 ### &#10146; Materials:
 
