@@ -119,6 +119,7 @@
 ### &#10146; Assignment
 
 * [Assignment 3 - SPARQL](https://docs.google.com/document/d/1e-ZzehxeImgmOwg3s8s3_scoGb-Ibm2g/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
+* [Assignment 4 - SPARQL 1.1](https://drive.google.com/file/d/1YhrDHR7Zl4rqYg3tToVChxx59ra1uNKA/view?usp=sharing){:target="_blank"}
 
 ### &#10146; Materials:
 
@@ -128,8 +129,8 @@
   * [SPARQL 1.1](https://drive.google.com/file/d/1WrRCsoWTR1z7AtMrpIpEEqtoQOzVLBBS/view?usp=sharing){:target="_blank"}
 * [Exercise 4 - SPARQL](https://docs.google.com/document/d/1-fe4Vmc9pQDVzlWyNuOQyrrHq8JmOvVH/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
   * [Exercise 4 - SPARQL Solutions](https://drive.google.com/file/d/1Y1awmUXfKB4LYhIDFZiPxkLpWZiwE-0-/view?usp=sharing){:target="_blank"}
-* [Exercise 12 - More SPARQL](https://drive.google.com/file/d/1YhrDHR7Zl4rqYg3tToVChxx59ra1uNKA/view?usp=sharing){:target="_blank"}
-  * [Exercise 12 - More SPARQL Solutions](https://drive.google.com/file/d/1Yg9zxc-CJt4uTYj5TueFFX3ootsS99En/view?usp=sharing){:target="_blank"}
+<!--- [Exercise 12 - More SPARQL](https://drive.google.com/file/d/1YhrDHR7Zl4rqYg3tToVChxx59ra1uNKA/view?usp=sharing){:target="_blank"}
+  * [Exercise 12 - More SPARQL Solutions](https://drive.google.com/file/d/1Yg9zxc-CJt4uTYj5TueFFX3ootsS99En/view?usp=sharing){:target="_blank"} -->
 
 ---
 
