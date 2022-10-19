@@ -141,7 +141,7 @@
 ### &#9726; October 19
 
 * Quiz 4
-* Live Video Lesson: [Linked Open Data]
+* Live Video Lesson: [Linked Open Data](https://drive.google.com/file/d/1rUWsPewXZs049VnrsAUFnbgnY55Kfy2H/view?usp=sharing){:target="_blank"}
 * From Oslo (in English): [Publishing RDF Data on the Web](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture15.mp4){:target="_blank"}
 
 ### &#10146; Materials:
