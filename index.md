@@ -163,6 +163,7 @@
 
 ###  &#9726; October 26
 
+* Quiz 5
 * Live Video Lesson: [Reasoning with RDF](https://drive.google.com/file/d/1PfR3znRGepB3D1NoFg5XvEszxmHWp0ry/view?usp=sharing){:target="_blank"}
 * From Oslo (in English): [Introduction to Reasoning with RDF](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture6.mp4){:target="_blank"}
 
@@ -186,6 +187,7 @@
 
 ###  &#9726; October 31
 
+* Quiz 6
 * Live Video Lesson: [Ontology Engineering Part1](https://drive.google.com/file/d/19-5xJIEHHiw9SbVOCuL9A9ZFFznmQE-S/view?usp=sharing){:target="_blank"}
 
 ### &#9726; November 2
@@ -194,6 +196,7 @@
 
 ###  &#9726; November 7
 
+* Quiz 8
 * Live Video Lesson: [Ontology Engineering Part2](https://drive.google.com/file/d/1U41H2a_wgrZ1uqjgN-ivmjnA_A5eDlvA/view?usp=sharing){:target="_blank"}
 
 ### &#10146; Materials:
@@ -207,6 +210,7 @@
 
 ### &#9726; November 9
 
+* Quiz 9
 * Live Video Lesson: [OWL, the Web Ontology Language](https://drive.google.com/file/d/1kSULbvyYJqaX9n5kF4h-Kvt3twNIBYaw/view?usp=sharing)
 * From Oslo (English): [OWL Basics, Protégé](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture9.mp4){:target="_blank"}
 
@@ -216,6 +220,7 @@
 
 ### &#9726; November 16
 
+* Quiz 10
 * Live Video Lesson: [OWL - Web Ontology Language 2](https://drive.google.com/file/d/1OBmtP8emhPbeMN6eZRMQDli-wBox89wu/view?usp=sharing)
 
 
