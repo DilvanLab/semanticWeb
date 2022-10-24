@@ -187,7 +187,6 @@
 
 ###  &#9726; October 31
 
-* Quiz 6
 * Live Video Lesson: [Ontology Engineering Part1](https://drive.google.com/file/d/19-5xJIEHHiw9SbVOCuL9A9ZFFznmQE-S/view?usp=sharing){:target="_blank"}
 
 ### &#9726; November 2
