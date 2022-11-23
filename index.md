@@ -256,7 +256,7 @@
 ### &#10146; Assignment
 
 * [Assignment 6 - Protégé](https://docs.google.com/document/d/1khEs4G3UZVp9Fww2YOcjehUParood-14/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
-* [Assignment 7 - OWL Modeling](https://drive.google.com/file/d/1H1GgRwJCNuuj_9yirwHlRgfShqysbvhi/view?usp=sharing){:target="_blank"}
+* [Assignment 7 - OWL Modeling](https://docs.google.com/document/d/1-DMbUR3wcvtgUUwXEoDaAF0fF6ggC6_t/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 * [Assignment 8 - Zebra Puzzle](https://docs.google.com/document/d/1IQv_AWdh89y0q2tiFFotpr2yUW31AAK1/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 
 ### &#10146; Materials:
