@@ -169,7 +169,7 @@
 
 ### &#10146; Assignment
 
-* [Assignment 4 - RDFS Modeling](https://drive.google.com/file/d/1CXynohUfTnNGTjvGzW4cmxt5EKy0XXNm/view?usp=sharing){:target="_blank"}
+* [Assignment 5 - RDFS Modeling](https://drive.google.com/file/d/1CXynohUfTnNGTjvGzW4cmxt5EKy0XXNm/view?usp=sharing){:target="_blank"}
 
 ### &#10146; Materials:
 
@@ -255,9 +255,9 @@
 
 ### &#10146; Assignment
 
-* [Assignment 5 - Protégé](https://docs.google.com/document/d/1khEs4G3UZVp9Fww2YOcjehUParood-14/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
-* [Assignment 6 - OWL Modeling](https://drive.google.com/file/d/1H1GgRwJCNuuj_9yirwHlRgfShqysbvhi/view?usp=sharing){:target="_blank"}
-* [Assignment 7 - Zebra Puzzle](https://docs.google.com/document/d/1IQv_AWdh89y0q2tiFFotpr2yUW31AAK1/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
+* [Assignment 6 - Protégé](https://docs.google.com/document/d/1khEs4G3UZVp9Fww2YOcjehUParood-14/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
+* [Assignment 7 - OWL Modeling](https://drive.google.com/file/d/1H1GgRwJCNuuj_9yirwHlRgfShqysbvhi/view?usp=sharing){:target="_blank"}
+* [Assignment 8 - Zebra Puzzle](https://docs.google.com/document/d/1IQv_AWdh89y0q2tiFFotpr2yUW31AAK1/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 
 ### &#10146; Materials:
 
