@@ -237,6 +237,7 @@
 
 ### &#9726; November 28
 
+* Quiz 8
 * Live Video Lesson: [OWL2 Part2](https://drive.google.com/file/d/1hdT6euPWT5UBxdTRoPWXo0G4Y8y2UrOC/view?usp=sharing)
 
 
