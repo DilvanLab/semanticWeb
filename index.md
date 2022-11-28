@@ -285,7 +285,7 @@
 * Slides: 
   * [RDF Validation](https://drive.google.com/file/d/1WskCAS9bRGKcZAMekzPmrqqhmMVtp4ip/view?usp=sharing){:target="_blank"}
 * [Exercise 13 - Validating RDF data](https://drive.google.com/file/d/1ZCHBb_uyriYfNUo656Y4at6pZb2JItln/view?usp=sharing){:target="_blank"}
-* [Exercise 13 - Validating RDF data Solutions](https://drive.google.com/file/d/1Z7gorqdxU_twdjXZJPkGQRACmJDJq9Ph/view?usp=sharing){:target="_blank"}
+<!---- * [Exercise 13 - Validating RDF data Solutions](https://drive.google.com/file/d/1Z7gorqdxU_twdjXZJPkGQRACmJDJq9Ph/view?usp=sharing){:target="_blank"} -->
 
 ---
 
