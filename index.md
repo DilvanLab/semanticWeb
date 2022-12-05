@@ -252,6 +252,7 @@
 
 ### &#9726; December 7
 
+* Quiz 9
 * Live Video Lesson: [OWL: Loose Ends - Part 2]
 
 ### &#10146; Assignment
