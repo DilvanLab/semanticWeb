@@ -250,7 +250,7 @@
 * Live Video Lesson: [OWL: Loose Ends - Part 1]
 * From Oslo (English): [OWL Loose Ends](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture11.mp4){:target="_blank"}
 
-### &#9726; December 7
+### &#9726; December 12
 
 * Quiz 9
 * Live Video Lesson: [OWL: Loose Ends - Part 2]
@@ -276,7 +276,7 @@
 
 ## RDF Validation
 
-###  &#9726; December 12
+###  &#9726; December 14
 
 * Live Video Lesson: [RDF Validation](https://youtu.be/ZCQfYJtBQ-I){:target="_blank"}
 * From Oslo (in English): [RDF Validation](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture13.mp4){:target="_blank"}
@@ -286,7 +286,7 @@
 * Slides: 
   * [RDF Validation](https://drive.google.com/file/d/1WskCAS9bRGKcZAMekzPmrqqhmMVtp4ip/view?usp=sharing){:target="_blank"}
 * [Exercise 13 - Validating RDF data](https://drive.google.com/file/d/1ZCHBb_uyriYfNUo656Y4at6pZb2JItln/view?usp=sharing){:target="_blank"}
-<!---- * [Exercise 13 - Validating RDF data Solutions](https://drive.google.com/file/d/1Z7gorqdxU_twdjXZJPkGQRACmJDJq9Ph/view?usp=sharing){:target="_blank"} -->
+* [Exercise 13 - Validating RDF data Solutions](https://drive.google.com/file/d/1Z7gorqdxU_twdjXZJPkGQRACmJDJq9Ph/view?usp=sharing){:target="_blank"}
 
 ---
 
