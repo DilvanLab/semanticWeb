@@ -264,6 +264,7 @@
 
 * Slides: 
   * [OWL, the Web Ontology Language](https://drive.google.com/file/d/1XI5sho8NIbn3C814c0U8f6uPyUzb_jOQ/view?usp=sharing){:target="_blank"}
+  * [OWL, the Web Ontology Language PPT](https://docs.google.com/presentation/d/1Lj6vmIX5G6s74rRd5uSKPm4ffdwq4vxU/edit#slide=id.p1){:target="_blank"}
   * [OWL 2](https://drive.google.com/file/d/1XQYS9jjX0ic5qguqq2wen2WUUHzaUFYs/view?usp=sharing){:target="_blank"}
   * [OWL: Loose Ends](https://drive.google.com/file/d/1WrIX9DKErWR2v4iCxpyS2p1UJvt6MLUO/view?usp=sharing){:target="_blank"}
 * [Exercise 9 - OWL](https://drive.google.com/file/d/1ZHQ0Y9UFLPJa6G0NFgKJluNiF0TNvh9Y/view?usp=sharing){:target="_blank"}
