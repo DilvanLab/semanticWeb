@@ -218,9 +218,9 @@
 * Live Video Lesson: [OWL - Web Ontology Language 2](https://drive.google.com/file/d/1OBmtP8emhPbeMN6eZRMQDli-wBox89wu/view?usp=sharing)
 
  
-<!-- ###  &#9726; October 21 - 27
+###  &#9726; October 21 - 25
 
-* ***Computing Week*** -->
+* ***Computing Week*** 
 
 ### &#9726; October 21
 
@@ -229,27 +229,27 @@
 * From Oslo (English): [Protégé Demo](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v20/forelesningsvideoer/protege_demo.mp4){:target="_blank"}
 
 
-### &#9726; October 23
+### &#9726; October 30
 
 * Live Video Lesson: [OWL2 Part1](https://drive.google.com/file/d/1Y2AjJlLueoNp5_VWTPltj83hVfPHtXG1/view?usp=sharing)
 * From Oslo (English): [OWL 2](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture10.mp4){:target="_blank"}
 
-### &#9726; October 30
+### &#9726; October 6
 
 * Quiz 8
 * Live Video Lesson: [OWL2 Part2](https://drive.google.com/file/d/1hdT6euPWT5UBxdTRoPWXo0G4Y8y2UrOC/view?usp=sharing)
 
 
-### &#9726; November 4
+### &#9726; November 11
 
 * Work and Exercises Discussion Class 
 
-### &#9726; November 6
+### &#9726; November 13
 
 * Live Video Lesson: [OWL: Loose Ends - Part 1]
 * From Oslo (English): [OWL Loose Ends](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture11.mp4){:target="_blank"}
 
-### &#9726; November 11
+### &#9726; November 18
 
 * Quiz 9
 * Live Video Lesson: [OWL: Loose Ends - Part 2]
@@ -276,7 +276,7 @@
 
 ## RDF Validation
 
-###  &#9726; November 13
+###  &#9726; November 25
 
 * Live Video Lesson: [RDF Validation](https://youtu.be/ZCQfYJtBQ-I){:target="_blank"}
 * From Oslo (in English): [RDF Validation](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture13.mp4){:target="_blank"}
@@ -292,7 +292,7 @@
 
 ## Industrial Applications in Norway
 
-###  &#9726; November 18
+###  &#9726; November 27
 
 * From Oslo (in English): [Industrial Applications in Norway (Guest Lecture)](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/guestlecture.mp4){:target="_blank"}
 
