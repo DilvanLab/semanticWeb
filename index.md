@@ -110,7 +110,7 @@
 
 * Quiz 3
 * Uncut Video Lesson: [SPARQL 1.1](https://drive.google.com/file/d/1G85EMrwQtMD5Qi9ZA4F4771JkvF2cc91/view?usp=sharing){:target="_blank"} 
-* From Oslo (in English): [More SPARQL](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture12.mp4)
+* From Oslo (in English): [More SPARQL](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture12.mp4){:target="_blank"}
 
 ### &#10146; Assignment
 
@@ -205,7 +205,7 @@
 ### &#9726; October 14
 
 <!--- * Quiz 7 --->
-* Live Video Lesson: [OWL, the Web Ontology Language](https://drive.google.com/file/d/1kSULbvyYJqaX9n5kF4h-Kvt3twNIBYaw/view?usp=sharing)
+* Live Video Lesson: [OWL, the Web Ontology Language](https://drive.google.com/file/d/1kSULbvyYJqaX9n5kF4h-Kvt3twNIBYaw/view?usp=sharing){:target="_blank"}
 * From Oslo (English): [OWL Basics, Protégé](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture9.mp4){:target="_blank"}
 
 <!--- ### &#9726; November 14
@@ -215,7 +215,7 @@
 ### &#9726; October 16
 
 * Quiz 7
-* Live Video Lesson: [OWL - Web Ontology Language 2](https://drive.google.com/file/d/1OBmtP8emhPbeMN6eZRMQDli-wBox89wu/view?usp=sharing)
+* Live Video Lesson: [OWL - Web Ontology Language 2](https://drive.google.com/file/d/1OBmtP8emhPbeMN6eZRMQDli-wBox89wu/view?usp=sharing){:target="_blank"}
 
  
 ###  &#9726; October 21 - 25
@@ -224,7 +224,7 @@
 
 ### &#9726; October 21
 
-* Live Video Lesson: [OWL - Web Ontology Language 2](https://drive.google.com/file/d/1OBmtP8emhPbeMN6eZRMQDli-wBox89wu/view?usp=sharing)
+* Live Video Lesson: [OWL - Web Ontology Language 2](https://drive.google.com/file/d/1OBmtP8emhPbeMN6eZRMQDli-wBox89wu/view?usp=sharing){:target="_blank"}
 * Live Video Lesson: [OWL - Web Ontology Language Part 3 & Protégé Demo](https://drive.google.com/file/d/1LlHfwCs2xA4_Sx5bjw9okssf7I90GKf8/view?usp=sharing){:target="_blank"}
 * From Oslo (English): [Protégé Demo](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v20/forelesningsvideoer/protege_demo.mp4){:target="_blank"}
 
@@ -287,7 +287,7 @@
   * [RDF Validation](https://drive.google.com/file/d/1WskCAS9bRGKcZAMekzPmrqqhmMVtp4ip/view?usp=sharing){:target="_blank"}
 * [Exercise 13 - Validating RDF data](https://drive.google.com/file/d/1ZCHBb_uyriYfNUo656Y4at6pZb2JItln/view?usp=sharing){:target="_blank"}
 * [Exercise 13 - Validating RDF data Solutions](https://drive.google.com/file/d/1Z7gorqdxU_twdjXZJPkGQRACmJDJq9Ph/view?usp=sharing){:target="_blank"}
-
+<!--
 ---
 
 ## Industrial Applications in Norway
@@ -303,3 +303,4 @@
   * [Slides_Dirk](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/undervisningsmateriale/guestlecture_dw_dnv.pdf){:target="_blank"}
 
 ---
+-->
