@@ -246,13 +246,13 @@
 
 ### &#9726; November 13
 
-* Live Video Lesson: [OWL: Loose Ends - Part 1]
+* Live Video Lesson: [OWL: Loose Ends - Part 1](https://drive.google.com/drive/u/2/folders/1KFD5LCKOIDWOk_dMSRdpHTgbyha7nSet){:target="_blank"}
 * From Oslo (English): [OWL Loose Ends](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture11.mp4){:target="_blank"}
 
 ### &#9726; November 18
 
 * Quiz 9
-* Live Video Lesson: [OWL: Loose Ends - Part 2]
+* Live Video Lesson: [OWL: Loose Ends - Part 2](https://drive.google.com/drive/u/2/folders/1KFD5LCKOIDWOk_dMSRdpHTgbyha7nSet){:target="_blank"}
 
 ### &#10146; Assignment
 
@@ -278,7 +278,8 @@
 
 ###  &#9726; November 25
 
-* Live Video Lesson: [RDF Validation](https://youtu.be/ZCQfYJtBQ-I){:target="_blank"}
+* Live Video Lesson:[RDF Validation](https://drive.google.com/drive/u/2/folders/1KFD5LCKOIDWOk_dMSRdpHTgbyha7nSet){:target="_blank"}
+* [RDF Validation](https://youtu.be/ZCQfYJtBQ-I){:target="_blank"}
 * From Oslo (in English): [RDF Validation](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture13.mp4){:target="_blank"}
 
 ### &#10146; Materials:
