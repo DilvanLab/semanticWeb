@@ -234,31 +234,30 @@
 * Live Video Lesson: [OWL2 Part1](https://drive.google.com/file/d/1Y2AjJlLueoNp5_VWTPltj83hVfPHtXG1/view?usp=sharing){:target="_blank"}
 * From Oslo (English): [OWL 2](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture10.mp4){:target="_blank"}
 
-### &#9726; October 6
+### &#9726; November 6
 
-* Quiz 8
+<!--- * Quiz 8 --->
 * Live Video Lesson: [OWL2 Part2](https://drive.google.com/file/d/1hdT6euPWT5UBxdTRoPWXo0G4Y8y2UrOC/view?usp=sharing){:target="_blank"}
+* [Assignment 7 - OWL Modeling](https://docs.google.com/document/d/1-DMbUR3wcvtgUUwXEoDaAF0fF6ggC6_t/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 
+
+<!--- ### &#9726; November 11
+
+* Work and Exercises Discussion Class --->
 
 ### &#9726; November 11
-
-* Work and Exercises Discussion Class 
-
-### &#9726; November 13
 
 * Live Video Lesson: [OWL: Loose Ends - Part 1](https://drive.google.com/drive/u/2/folders/1KFD5LCKOIDWOk_dMSRdpHTgbyha7nSet){:target="_blank"}
 * From Oslo (English): [OWL Loose Ends](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture11.mp4){:target="_blank"}
 
-### &#9726; November 18
+### &#9726; November 13
 
-* Quiz 9
+<!--- * Quiz 9 --->
 * Live Video Lesson: [OWL: Loose Ends - Part 2](https://drive.google.com/drive/u/2/folders/1KFD5LCKOIDWOk_dMSRdpHTgbyha7nSet){:target="_blank"}
-
-### &#10146; Assignment
-
 * [Assignment 6 - Protégé](https://docs.google.com/document/d/1khEs4G3UZVp9Fww2YOcjehUParood-14/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
-* [Assignment 7 - OWL Modeling](https://docs.google.com/document/d/1-DMbUR3wcvtgUUwXEoDaAF0fF6ggC6_t/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
-* [Assignment 8 - Zebra Puzzle](https://docs.google.com/document/d/1IQv_AWdh89y0q2tiFFotpr2yUW31AAK1/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
+
+<!--- ### &#10146; Assignment --->
+
 
 ### &#10146; Materials:
 
@@ -276,11 +275,13 @@
 
 ## RDF Validation
 
-###  &#9726; November 25
+###  &#9726; November 18
 
 * Live Video Lesson:[RDF Validation](https://drive.google.com/drive/u/2/folders/1KFD5LCKOIDWOk_dMSRdpHTgbyha7nSet){:target="_blank"}
 * [RDF Validation](https://youtu.be/ZCQfYJtBQ-I){:target="_blank"}
 * From Oslo (in English): [RDF Validation](https://www.uio.no/studier/emner/matnat/ifi/IN3060/v21/forelesningsvideoer/lecture13.mp4){:target="_blank"}
+
+* [Assignment 8 - Zebra Puzzle](https://docs.google.com/document/d/1IQv_AWdh89y0q2tiFFotpr2yUW31AAK1/edit?usp=sharing&ouid=115044060044527770743&rtpof=true&sd=true){:target="_blank"}
 
 ### &#10146; Materials:
 
@@ -288,6 +289,10 @@
   * [RDF Validation](https://drive.google.com/file/d/1WskCAS9bRGKcZAMekzPmrqqhmMVtp4ip/view?usp=sharing){:target="_blank"}
 * [Exercise 13 - Validating RDF data](https://drive.google.com/file/d/1ZCHBb_uyriYfNUo656Y4at6pZb2JItln/view?usp=sharing){:target="_blank"}
 * [Exercise 13 - Validating RDF data Solutions](https://drive.google.com/file/d/1Z7gorqdxU_twdjXZJPkGQRACmJDJq9Ph/view?usp=sharing){:target="_blank"}
+
+## Final Work: Questions and presentation
+
+###  &#9726; November 25 - December 11
 
 <!---
 ---
